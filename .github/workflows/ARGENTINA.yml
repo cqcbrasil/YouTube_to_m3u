@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator
+name: M3U ARGENTINA
 
 # Controls when the action will run. 
 on:
@@ -39,8 +39,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+          chmod +x ARGENTINA.sh
+          ./ARGENTINA.sh
 
       - name: git add
         run: |
