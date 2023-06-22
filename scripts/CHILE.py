@@ -4,7 +4,6 @@ import requests
 import os
 import sys
 import subprocess
-from bs4 import BeautifulSoup
 import re
 
 banner = r'''
