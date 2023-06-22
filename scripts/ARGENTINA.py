@@ -6,6 +6,23 @@ banner1 = r'''
 #                                  >> https://github.com/cqcbrasil        #
 ###########################################################################
 #EXTM3U
+#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
+http://pe.shortgod.com/lord20/tv2.php?id=46&token=ShortGod&file=.m3u8
+#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
+http://pe.shortgod.com/lord20/tv3.php?id=3194
+
+#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
+http://pe.shortgod.com/lord20/tv3.php?id=3194
+
+#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
+http://pe.shortgod.com/lord20/tv2.php?id=46&token=ShortGod&file=.m3u8
+
+#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
+http://198.27.117.10:8080/Carlos2022/Carlos2022/362529
+
+#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="FAMILIARES",El Trece | Argentina
+http://177.128.115.10:8000/play/a0a6/116200
+
 #EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL 1
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-chno="98" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL 2
@@ -20,17 +37,14 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/b00d164f-be51-473e-a47c-b33aa1f44186.m3u8
 #EXTINF:-1 tvg-id="ElTreceHD.ar" tvg-name="El Trece HD Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="Argentina", El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="Argentina", EL TRECE 2
-https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
+
 
 #EXTINF:-1 tvg-id="ARG: El Trece HD" tvg-name="El Trece" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina", EL TRECE 4
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52506.ts
-#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="Argentina", Telefe HD
-https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
 #EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102180740870047_11.jpg" group-title="Argentina", Telefe HD
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52518.ts
-#EXTINF:-1 tvg-id="ARG: Telefe HD" tvg-name="Telefe Argentina" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png" group-title="Argentina", Telefe (INT) 3
-http://tvstarlife.com:25461/live/geovany/geovany/315.m3u8
+
 #EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="Argentina", Telefe COM VPN
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ARG: Telefe HD"  tvg-name="Telefe Argentina" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe COM VPN 2
@@ -40,17 +54,13 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Cronica TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="Argentina",Cronica TV
 http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52503.ts
-#EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/79b39d89-9b09-4152-92aa-aca7a5687abb" group-title="Argentina",AMÉRICA TV
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/americahls-100056.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" group-title="Argentina",UNIFE  25.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8
 #EXTINF:-1  tvg-id="InformacionPeriodistica.ar" group-title="Argentina" tvg-logo="https://i.imgur.com/SQSu9M5.png",Informacion Periodística
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017 %29.png" group-title="Argentina",C5N
-http://tvstarlife.com:25461/live/geovany/geovany/283.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Argentina",A24
-http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="Argentina",TELECOLORMUX
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png",IP  24.5
@@ -62,7 +72,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="Argentina",CANAL 4 TELEAIRE SAN MARTIN
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
+
 '''
 
 
