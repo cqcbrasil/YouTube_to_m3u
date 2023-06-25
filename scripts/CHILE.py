@@ -36,8 +36,21 @@ https://mdstrm.com/live-stream-playlist-v/5c928b7f6d6f41084bdae898.m3u8?access_t
 #pagina token:https://www.chilevision.cl/ms_player_src_01/live_1/5c928b7f6d6f41084bdae898/1681435537.js
 
 
-#EXTINF:-1 xui-id="128" tvg-id="MEGA" tvg-name="Mega" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X-phSNZlGbmiki05OMDvwB3.png" ggroup-title="CHILE",Mega
+#EXTINF:-1 xui-id="128" tvg-id="MEGA" tvg-name="Mega" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X-phSNZlGbmiki05OMDvwB3.png" group-title="CHILE",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ntv" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/ntv.jpg" group-title="CHILE",NTV (VPN)
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#pagina web:https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d
+#Sin token
+#herramienta para ver el token:https://codebeautify.org/source-code-viewer
+
+
+#EXTINF:-1 tvg-id="24 Play" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24 play.jpg" group-title="Televisión",24 Play
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#pagina web:https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab
+#Sin token
+#herramienta para ver el token:https://codebeautify.org/source-code-viewer
 
 #EXTINF:-1 xui-id="123" tvg-id="C13STGO" tvg-name="Canal 13" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X9UAj6nCi9ytepPsaKrCz8k.png" group-title="CHILE",Canal 13
 https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
@@ -51,6 +64,15 @@ https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9VTVNpb0Ty6APnEPt0h4YBPGhQ9E
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9aLNkFkv3hiRbFq-IldfOLt_UbOCl9KbIozLEa8E7hGq/ts
 #EXTINF:-1 xui-id="127" tvg-id="LARSTGO" tvg-name="La Red" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X-38hpTEMj3jiXZuXV1Wu0n.png" group-title="CHILE",La Red
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9VTVNpb0Ty6APnEPt0h4YBPSYTI7ma7Kq8RdDrV2MVjD/ts
+
+#EXTINF:-1 tvg-id="La Red HD" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/lared.jpg" group-title="CHILE",La Red (VPN)
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
+#pagina web:https://www.lared.cl/senal-online
+#Playe:https://rudo.video/live/lared
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+
 #EXTINF:-1 xui-id="129" tvg-id="TVMAS" tvg-name="TV+" tvg-logo="https://normielista.cl:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDYJ6p7Kx-jfO4caNakoUhllyFnR5yWYSnRv4lnoRMwPA.png" ggroup-title="CHILE",TV+
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9VTVNpb0Ty6APnEPt0h4YBN-QdWvfzXcmwCqNlLe77eJ/ts
 
