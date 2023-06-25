@@ -11,12 +11,11 @@ banner = r'''
 #                                                                         #
 #                                  >> https://github.com/cqcbrasil        #
 ###########################################################################
-EXTINF:-1 xui-id="130" tvg-id="TVNSTGO" tvg-name="TVN" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X9hjyeejv4VZTPJ0cqZW1Oo.png" group-title="CHILE",TVN
-https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9RH4Lwij7wZqoExyEgsq1MJiZehEJxZd2QnpUVeLV_Fz/ts
+
 
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="CHILE",TVN (VPN) ACHO
-https://cvthmk.000webhostapp.com/tvnhd.php
 https://cvthmk.000webhostapp.com/tvn.php
+https://cvthmk.000webhostapp.com/tvnhd.php
 https://tvn--24df53d9e0.repl.co/
 https://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?access_token=FmNotzoOXDoZWaHupBbLurn8Ijrjq1C1gAOHRTaBvcLr3K6T00meQLanhm4zCOLXtFHlVUR8wAc
 #pagina web:https://www.tvn.cl/en-vivo
@@ -82,8 +81,7 @@ https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9U3VvRIXL7HaW-FbHrzwKyPiuztY
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9cJ27zzRXaUVifkaTkP6RywvEgUce_3dNBoNeiMKinhX/ts
 #EXTINF:-1 xui-id="171" tvg-id="HCCHDA" tvg-name="History Channel" tvg-logo="https://normielista.cl:443/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhhRHpsWl0xSTi7hPPFBCAuLQS5yOHjOjCFVYrkZQGabaQ.png" group-title="CHILE",History Channel
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Z6cf5QAjTDyhklY3sDH2YoSMiZtRs2Xqoh9XnYGyMA0/ts
-#EXTINF:-1 xui-id="333" tvg-id="ESFNCHD" tvg-name="Fox News" tvg-logo="https://normielista.cl:443/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhhOHwSbMMlbnwuAOu1KXpBkJpAPp-cnmoi2v3IoqrzA6A.png" group-title="CHILE",Fox News
-https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9UqZX_r3sEm2Oti6aB1NpsGldgY8qBJs1y9ueFjdkDcR/ts
+
 
 '''
 
