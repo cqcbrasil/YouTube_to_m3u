@@ -9,7 +9,7 @@ import re
 banner = r'''
 ###########################################################################
 #                                                                         #
-#                                  >> https://github.com/guiworldtv       #
+#                                  >> https://github.com/cqcbrasil        #
 ###########################################################################
 EXTINF:-1 xui-id="130" tvg-id="TVNSTGO" tvg-name="TVN" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X9hjyeejv4VZTPJ0cqZW1Oo.png" group-title="CHILE",TVN
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9RH4Lwij7wZqoExyEgsq1MJiZehEJxZd2QnpUVeLV_Fz/ts
