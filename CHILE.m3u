@@ -3,7 +3,7 @@
 
 ###########################################################################
 #                                                                         #
-#                                  >> https://github.com/guiworldtv       #
+#                                  >> https://github.com/cqcbrasil        #
 ###########################################################################
 EXTINF:-1 xui-id="130" tvg-id="TVNSTGO" tvg-name="TVN" tvg-logo="https://normielista.cl:443/images/0GV_IuQaPDLyYaZp9L5H2CMg2ozhFk3H2yn6s37Y4X9hjyeejv4VZTPJ0cqZW1Oo.png" group-title="CHILE",TVN
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9RH4Lwij7wZqoExyEgsq1MJiZehEJxZd2QnpUVeLV_Fz/ts
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l790QCWpgPDcehyjzfhDKe2MqcuwGJc6HbUR4Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1" tvg-id="", Meganoticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687696821/ei/VOGXZOGVOc2K6QLc7rDACg/ip/40.77.92.166/id/RDu30JsCjyA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AZ6lgGHmyot1Dy3StKnUHMIz0B5cydU639QUzrGp2hfNPyese7YY8TSGjhcBNzC6FRNe7OjZnEr76uHuWDWMN72RUheHVXc6/spc/qEK7BzL_BlJ4JMXnV3D97P94hWu3TLn822aQvxc9lg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363391%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIs-KHojijApqWcqpKGnnKiBDykkk3C-Cv7uRMfq8Gg6AiEA63ip_2bzrR7FsT4cxs1Fwo3gaaIAR1q_72X5IGNi53M%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687699356/ei/POuXZN-KCJHs8wSbjomIBw/ip/104.45.203.134/id/RDu30JsCjyA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7B6tPdQOiPFtK6hhzQiiwCtJXWaAtZ99Og9nRww/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANgP6MBiWx_eAjv-N-qx-ZKIHDzrmDZ8z-hBfnhZzRhIAiEAqKsfsK2_7d0DqdBgwjmNmxChpWtpkM7kggbk1_Ea9FQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERvtJ6EiSY9vQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", T13 EN
 https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 
 #EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/rzWmoueYLYs4hpK1mwVFnyafADTztytGuZFiPJEVd1lyCZKFyYebzLPV1P9BB4xB6rEIiEKSug=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV SENADO CHILE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687696828/ei/WuGXZLuOJNqwlu8P-M-2mAs/ip/40.77.92.166/id/naP1OzB_Nqs.1/source/yt_live_broadcast/requiressl/yes/tx/24691744/txs/24691743%2C24691744%2C24691745%2C24691746/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7B4SzDuQgobVJMELq8TCutDHerh_IisjybaMgyg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYZeY4lUdIlIYDvKwuePqGdbmhuLD1YoVF1_aJBEuUDICIQDMI-o5RLn3RjGMoqdDggoPzzrajXtCtl8X4t9wDvBmMA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687699361/ei/QOuXZO6TNoPD8wT8zZiwBw/ip/104.45.203.134/id/naP1OzB_Nqs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7Bx2nrkAa5gkKum6n7izF4jxEwO7Zgcfh6MqqgA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPQCakq99nw3ZZT_9YRkMrkUAr8HBM6OPOm6k5k8A1zNAiByfidh3VLMJk6tsFPsGIqdfqdGKvEqIzdFVp7wvchzJA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fEIf7q.png" group-title="Radios Chilenas Con Video",-Radios Chilenas Con Video-
 https://i.imgur.com/7o6at8Q.mp4
