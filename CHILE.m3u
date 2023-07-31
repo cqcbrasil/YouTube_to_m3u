@@ -80,7 +80,7 @@ https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Z6cf5QAjTDyhklY3sDH2YoSMiZt
 
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRYcis81WAh0QolovYToT0vSzgN7sIzkaru5-pOog=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TVN
-https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690798227/ei/MzTHZLPNK_Ch_9EPhoqcgAo/ip/172.176.238.17/id/9TjuPDR7kTw.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq3S-IFgAB9pzhyVywSykNpQ7-sfvDgTpcsgnBA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFOLFJBQi6meljWFLz4Qd-UAIMpcRZvFhSdwKkD2JgfMCIAxMrEfRvxN0mw8kETc0AsrkzZz5_Q3y348AS9jF0k9U/file/index.m3u8
 
 #EXTINF:-1 group-title="Chile" tvg-logo="https://yt3.ggpht.com/clEeO22ukG6jvOlhK3EDIszMjjcNfZ5xJY4fVEUrN3bki3RYs8RiATTjqPXGVTCP0XFN7W046A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", CHV Noticias
 https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAir.m3u8
 
 #EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/rzWmoueYLYs4hpK1mwVFnyafADTztytGuZFiPJEVd1lyCZKFyYebzLPV1P9BB4xB6rEIiEKSug=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV SENADO CHILE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690794562/ei/4iXHZOj8DNql_9EPibyi0AM/ip/20.57.41.227/id/QGjA_wJIZx0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq8KTI3VfcSgT2XWvKGx7qGo144BWGq_CvebpPA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000013/beids/24472446/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHvfdrv1D6bynQHW0otFqsIMYAYMSljfZ_-Oo0ZY_fAwCIF6_VLcUWChOHJr3m1ra6KpFqVWdwdYt48VUdSY_h1wd/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690798232/ei/ODTHZI7WB9Lt8wSG4Y7QBg/ip/172.176.238.17/id/QGjA_wJIZx0.1/source/yt_live_broadcast/requiressl/yes/tx/24360281/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq9ODPD8gHnDD_yHO5tXF7NtBqO2Ph9R9hAEPfA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJZd3idDFwNhv1oD8uz2IgKbqEJhR2N2XL83k85vcOZUCIH9OHmcDawk8-SfNtedOPZ23y1787MoxWtQEP4mg_jRs/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fEIf7q.png" group-title="Radios Chilenas Con Video",-Radios Chilenas Con Video-
 https://i.imgur.com/7o6at8Q.mp4
