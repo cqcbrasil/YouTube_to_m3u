@@ -15,6 +15,9 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Argentina",TN Todo Noticias
+http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184400
+
 #EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="Argentina",America TV | Argentina - TDA 2.1
 http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184378
 
