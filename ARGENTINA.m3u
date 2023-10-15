@@ -1,393 +1,1719 @@
-﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-
-###########################################################################
-#                                                                         #
-#                                  >> https://github.com/cqcbrasil        #
-###########################################################################
 #EXTM3U
-
-
-#EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (Av. 3 y 104)
-http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (Buenos Aires y Playa)
-http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
-http://camlapinocha.gesell.com.ar/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="Argentina",America TV | Argentina - TDA 2.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184378
-
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/206638151_10223169123710059_3666810289391430657_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=825194&_nc_eui2=AeGxugJ54qa7RhgKBnLTrHOu14OonvQq8lrXg6ie9CryWkCQzaYyrufVmZGkiprZVM0&_nc_ohc=dbLCQPiMFxEAX9X0jrT&_nc_ht=scontent.fepa11-1.fna&oh=afeef92e5377cb7720df7b2f4afc60c8&oe=6127F95F" group-title="Argentina",SSIPTV ARG TV - TDA 6.2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee7000c&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Television Publica" tvg-name="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="Argentina",Television Publica | Argentina - TDA 7.1
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Television Publica" tvg-name="Television Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PUBLICA - SINAL ORIGINAL 2 - TDA 7.1
-https://s@cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",TELECOLORMUX - TDA 8.1
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="Argentina",Telefe | Argentina - TDA 11.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184384
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="Argentina",Telefe | Argentina - TDA 11.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184383
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="Argentina",Telefe INTERNACIONAL | Argentina - TDA 11.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184385
-
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://telefe-static.akamaized.net/media/18154476/logo-telefe-twitter.png" group-title="Argentina", Telefe (VPN) - TDA 11.1
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", Telefe (VPN) 2 - TDA 11.1
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="Argentina", El Trece - TDA 13.1
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina", El Trece 2 - TDA 13.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184387
-#EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina", El Trece 2 - TDA 13.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184388
-
-#EXTINF:-1 tvg-id="El Nueve AR" tvg-name="El Nueve AR" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="Argentina", CANAL 9 35.1 - TDA 35.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184380
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="Argentina",CANAL 4 TELEAIRE SAN MARTIN - TDA 21.1
-https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cronica TV" tvg-name="Cronica TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="Argentina",Cronica TV | Argentina - TDA 22.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184396
-
-
-
-#EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="Argentina",MILENIO TV
-http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52487.ts
-
-#EXTINF:-1 tvg-id="IP" tvg-name="Informacion Periodistica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="Argentina",Informacion Periodistica | Argentina - TDA 24.5
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-
-#EXTINF:-1 tvg-id="IP" tvg-name="Informacion Periodística" tvg-logo="https://i.imgur.com/SQSu9M5.png" group-title="Argentina",Informacion Periodística | Argentina - TDA 24.5
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
-
-#EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQ4CbRDh4Wgxt0o_pw9V-kw9Vz6T0Re2Q_RD62jp7cZMO0uWvSKSUN6sZ2vjYcbn5fAs&usqp=CAU" group-title="Argentina",IP | Argentina - TDA 24.5
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-
-#EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Argentina",TN Todo Noticias - TDA 20.1
-http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184400
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" group-title="Argentina",UNIFE 25.1 - TDA 25.1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8
-
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="Argentina",C5N | Argentina - TDA 26.1
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-#EXTINF:-1 tvg-id="A24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="Argentina",America 24 | Argentina - TDA 27.1
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="Argentina",NET TV 27.2 - TDA 27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cmmusica.com.ar/images/logo.png" group-title="Argentina",CM TV | Argentina - TDA 33.1
-https://g5.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Argentina",Glitz | Argentina
-http://tv.dominiotv.xyz:25461/live/Rolando/Rolando2021/52509.ts
-
-
-
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV Pública
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372151/ei/l4MrZa-TAaLFsfIPqsi_gAk/ip/4.227.8.40/id/jXkE1If-kiQ.1/source/yt_live_broadcast/requiressl/yes/tx/24554063/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/maudio/1/spc/UWF9f2r5P-gBZMcOxlGbUhbFinkgDZDBnSyGJs-kFw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAJ3uQsHkHIsRoc_NcWX4N403nzAbvqXESJzzEnQIhlblAiBsJK4dIl6F-WFlLMl539JG-DeorzMz83MFWn2Mv_E3xQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisión Pública 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372151/ei/l4MrZZPvJKaLsfIP1-iQqAo/ip/4.227.8.40/id/jXkE1If-kiQ.1/source/yt_live_broadcast/requiressl/yes/tx/51018868/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/maudio/1/spc/UWF9f6kXvViq1F6TGlWvTcMOtDhMnm5BMQb5KZoX1A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhALfei-vjTTk1i46jZGIl9QAA6htbaU2upd3Z8cDCXy6eAiEA13f1MLOP9f2zXR5Sw6A_fqOhVbxaU930gMeSlmP5WZ8%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQylk1Pg1iz872BeKPel5iEkdEGbXFV4-_c2x0n=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 12 Televisión Pública Regional
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372152/ei/mIMrZY-gCvSUsfIPpvelyA4/ip/4.227.8.40/id/97HCJcLGccw.1/source/yt_live_broadcast/requiressl/yes/tx/51018865/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4fcUzj3ABH0Bu3tn-DpJ-YVNtrDk8t8Vv5REQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgV9mFXwcgd46FZKxFNTM35Nn6BuxDGJlzV1t-rxLqA5wCIA0D_e8xwnoSd8R-TlKjT8hi0f6h-Ct5uyizVBRbJvm3/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Crónica TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372152/ei/mIMrZY2mK9Sikwb9-p3gCQ/ip/4.227.8.40/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/tx/24554063/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6_JwMD-W639CiZObM8UPvBOHPQsbYhW_W6w7g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgTo17eifQWNthPxK_76zrhqMUX2UOT-fhtoKHmhfrwxcCIQCdc-zsBQtxj6TCblX7jmMjkGH79d8Nco0llPObyUOMTg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372153/ei/mYMrZeHaF6GLsfIP06qokAc/ip/4.227.8.40/id/xwupNXFI7-4.1/source/yt_live_broadcast/requiressl/yes/tx/24554063/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0Sf-PHUAS5CSmQBcWuqoDsMmKKAJvJ01u3Kyg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgTfvYKbEFWDoR7dM5xtlJ8WP7d64tH-e1r7F8gwkDLYACICglKLYuvvIxv5pHq6utaSBMSzb5DYK0OBrP95OS7iDi/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ytimg.com/vi/zcWXboTnous/hqdefault_live.jpg" tvg-id="", América TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372154/ei/moMrZYrZB8aYsfIPsbqdyAk/ip/4.227.8.40/id/zcWXboTnous.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f_pvOwnU8uN2gy62VvgRtkTn5ruuNUG9hUa12A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgNPSQWYNjE60XsNJyCY7sgUufuV5WFZNSrcbfJ5LStVkCIQC2dD7vL_j8ffYwpLdaFgwP-O5y9UetTwjS3hzgbK4jdg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj" tvg-id="", LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372154/ei/moMrZZ7KJ4e6kwbrhZAY/ip/4.227.8.40/id/4e8Iw3Frf1A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyzrhk9foAmxdito21cJ4g_r4GTzjVAFk35PPQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgYjbYlTWX8fJwq-ZPHNPKY3Tu-VZCrWz0iQjOY56nSCUCIQCtKfG6FpE8Seuy5m14QofCIUonEc3yY3s2EnVRHnUOkA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_2vc9G9uQ63H-T7ju-WzsmqbBPyXTw4l-irVbaA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TELEFE CÓRDOBA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372155/ei/m4MrZcXEDr6GsfIP1vmfIA/ip/4.227.8.40/id/61fwEn1fJVE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3g1f82ciLK8RsFwiob8P4gg93mzVP67CBdzNA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhALaWMw5zBWn0j7oNEzD2o9K0x04FD4qWjZ45DdeqRDOzAiEAtuGCTFanhC-WjsF43aGZPPoi3Pda9cw2Pk6OxdlDx9U%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRJLMbep2bJrLLuIAyi6-TXc3qnQCUXLbztYkoo=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TELEFE ROSARIO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372155/ei/m4MrZajILrfHsfIPsuOSkA4/ip/4.227.8.40/id/oCH_gfRQrRA.11/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8N-RN7GjNTQWTRDlEIgi2geSvxt2CZB8POzhQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgOlLt2p7rY4Wvb9zqWczBYuCgJYfM-PxuH00Ezlxe788CIH6lAIa1KyOSDGbNsf24PGbPG6GDsvAfsAFKrGFUioCz/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTQ0CHvwUkhFXB2UyejrJl0KVeBjhtrORfIweTQXg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TELEFE SALTA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372156/ei/nIMrZfbEFaTMkwbx9JWACQ/ip/4.227.8.40/id/GtyCz7ZlO0Q.1/source/yt_live_broadcast/requiressl/yes/tx/51018865/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_bBSO3jLGoAKQzEzhPhwgrrzqi3LxR-ZzlqPQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhANOs2ehwrg8Dkp7Q4athy_--KuRfbFae1Tn-8eItzSZAAiEAsH6L_87-fIVIvgoZ0CAnSO_bzfHHpYO8d4kR5JnAUdg%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Informacion Periodística
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRVONiJPqnYI_ETrMgVqqBLCerU8RXnRRp-xF79LA=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Todo Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372157/ei/nYMrZYLFL6HMkwaYup6AAQ/ip/4.227.8.40/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/tx/51018864/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_D922CotgMbZQEF7OEsMmoEY0S5tQ710ITtAg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwQwIgFR6GHyxV26R0oQos13Zk_yjE89gTEMsG-iFbH2CH82UCHz-Uvw_peljDJ3PW1ZQIPpFO9o_R67tg0g_rOw1sM5s%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYU51c8SbrkWZeNBRMFeCnGv0YXPpXuEGBNq-X5g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal Encuentro
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372158/ei/noMrZdGnJ5Xekgbv15rYBg/ip/4.227.8.40/id/xO4ddxSEZ24.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6G3PESax68WwAEVG932c8LKdFk7oX2efJhRSg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAP91cuq5B9TzVCn40X3tvuYdoBvxBM5kkG1jn0QsOcpFAiBzeVHnQ6wt5tRAb6BS3fd3BIej1dNOPIdqxFooSazYMg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/8H8tnhLLSm3kDuxUgOOqeiV3zsdo4UmaSQEsDDBTUbAI6GbJX_O54XXSQryos1vY9hcjqSfQNw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TEC TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372159/ei/n4MrZeiKCMXLkwafhI6AAQ/ip/4.227.8.40/id/05pkHzaGySE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fznaYcCdu7hbr2AE43Gjkr98oZqfZlaSKLYZ_Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAPu8Ulbyah7HsYyj63fvpGwiesqHm9vgzOOKzGMpd1h5AiBCpDeOd3RywhJihXwf4usoweE4EZojxQK5uQrfrUj82A%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRJ0_-IzGm_c5e-Kn5iNrIrba2th4gJsjIt-JHSXg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Hipódromo de Palermo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372159/ei/n4MrZbqCJ4aPkgaOy6y4CQ/ip/4.227.8.40/id/k2mrYCUFYEw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0bAvFbWVbozJg3I8V4vUWAUh44uDVBvQUPBQA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgOIxp8zTokXe0mz-abhBFTsvvp5NaZ31WfAQvLs8qU-cCIDXTN-xULLitvWHfswHmsfOkdQoDhaPC5R-X0Lm9i1om/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372160/ei/oIMrZburDbaZsfIP4LGlKA/ip/4.227.8.40/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/tx/24561250/txs/24561249%2C24561250%2C24561251/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5SG7Wpg5AeF2G_ihEOhUVdfSB8TGG21QZ8RxQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgLO4qJiHx_09eQekf6aAmVEuCzKP8EYHwKM1BFEDgK2wCIAT9ML30lwHtWyuGCkQfr--Ia4vZhdGQxF7CIZF3z6N3/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 7 Mendoza AR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372160/ei/oIMrZaWHLaeTsfIPnPqDgAo/ip/4.227.8.40/id/Vh8xmLBJtR8.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyjiPogo9-blMc2UHaFEryEdNpoUKwbnbff-rQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAPlgyGTlBtpuGkJxca8-QefPtzT-Nxa5ZZh4PiQ3RSq_AiBoNxxBL-zHSFQMdThkcA357g545D80Qp2LcpTbPN4leQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s88-c-k-c0x00ffffff-no-rj" tvg-id="", El Siete TV (AFILIADA AMERICA)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372161/ei/oYMrZYOXEMicsfIPl-WhgAk/ip/4.227.8.40/id/Vh8xmLBJtR8.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1dDDeyHd6X9s3Gr6ggAV48_8Fu_or4b9DCZ4Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgYANMfz5bk_3K7nNtp2MfFlAPGpHwSofek-vuoXEvRJACIQCGRPXUOQMM5gG59TaVNRkCfIaDIzGcnqT1dzne_KEQNg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTCjq3swUGlbn-gss0oqSC6XZ1o__OLXOraCqJzJQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 8 San Juan (AFILIADA AMERICA)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372161/ei/oYMrZazhMv6TsfIP9cqmkA4/ip/4.227.8.40/id/20aKNMZ6PUA.1/source/yt_live_broadcast/requiressl/yes/tx/51012060/txs/51012058%2C51012059%2C51012060/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1XSsq_jWOeItPeIRUxF2evCdwYWJ4cmfmAL-A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAPjSOECMqgTWgTDV6pIpIhhrLA4gSk8gGrRD_ZUK-6EIAiAoMVepI4ppXEFuqoQKqWyjGeiByotZVLCuVxxAoA_Dgg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/88bIoKxC85lXsgiRMnqbkc8UB6ScJHjx0NvqFYxudJ_Cu3_ID2XDyl_426-kKZ1NfpsfpUIGPg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", EL SEIS BARILOCHE
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/SQC2152IyCYfOI2NqTpJFbFZXQCSyJkY4cWMfssJxB1TaH6mccq472cjU6BZTUloKgaOAV7yUQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CANAL 26
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372163/ei/o4MrZfq9GNajkwbVxorYDw/ip/4.227.8.40/id/2IfTdw28WFY.1/source/yt_live_broadcast/requiressl/yes/tx/51018869/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3q9hC1A-TKowZ_T3HGlDYlxnwcU1-QadaOymw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgZPz0cQftwG7_9HGblLX-D5m0kfYTTjIyvQBZhbgqoskCIHj8Nsv8TuCQiBdoWjq5nWB7QcyYiGkDQ90dxbsvbsUR/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTZ66m3iJOVc5mAtpdFP3OyZQNxevFmEaLt6cVwxQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", KZO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372164/ei/pIMrZdpY8Zex8g_tu4OACQ/ip/4.227.8.40/id/xexWK1H00xA.1/source/yt_live_broadcast/requiressl/yes/tx/24554065/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzqPc-2PZCPbEGW9UW49EhKmzDGAIBxdRw9eWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhANmYGe0DyNeoFkImy0KOWM1TtB43hWZ_iO03_QwNV7CDAiEApMT40ZollzaQxQyc7AsCWI-G-_aLBoHjckO8YoDYKhE%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTKUaxHAyqbEEphECYxByOgE3IrHURM18rg0Fxs7Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CANAL DE LA CIUDAD
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQqL9YaWAmxHUyE5OO8ByMR4QO4Vts86rTs21BP=s48-c-k-c0x00ffffff-no-rj" tvg-id="", DIARIO DEMOCRACIA
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/vv_t-qa4gDb8Rn-vri7CilUzVXjg0dGbDSVYFrFoca0vQCUfwwiH1_TJn7sr1nCpD1SyfttovQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", WBSC AMERICAS SOFTBALL
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLThGfqhtYY9-oNcLBqlb3Viq-P0R1Mxj4v7yEpgsA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", SHOW DE LA FE ARGENTINA
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTKUaxHAyqbEEphECYxByOgE3IrHURM18rg0Fxs7Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CANAL DE LA CIUDAD
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Pakapaka
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSnZ-EKL9UQCi8CSKVDUDbbcwC7BXuZJb_vF4_lbA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="", SENADO ARGENTINA
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSg8Q8Gj-iQ6nauQFbE8B8ygtPavdGvpkmn14gA3g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Honorable Cámara de Diputados de la Nación
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTojwq6lCK6vh3nOTJ6-DLKAKLyj0Pak0i4jpiK=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Cámara de Diputados de la Provincia de San Luis
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372171/ei/q4MrZf2ABvuUsfIPucmR4Ao/ip/4.227.8.40/id/Gq6MIaZ501A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-c6aaiTKmDyz7zxhNbrlY2Dz-ZT6YMBAT88eA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhALHbEn4ux3vw6jlZMmkKvbzqutNxlP4sBJvy3xrXPPb6AiAeeK3GOn9EtL-3Y18A4pE42OEPInaUgALFNvOcGSxcGg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRDFVq2CLFeGtnZhTNeRrfrnnY4Z_1AZlk2pwPn=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ARGENTINA LIVE SISE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372171/ei/q4MrZfr1KtGTsfIP5NuO8Ao/ip/4.227.8.40/id/tvmw_j8lWk0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_ykrCsDIXotiRPNc2HoUf-Dqq_KGQS2oXULqQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAJML6HjW64oN1QUtjxgMb7c0tJn6Jpe6C9U0OQngK2y3AiAhCaCs4xsEdd-mQKwWlbMVSX6-xrD5wtaQNqPH06Z5lA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRDFVq2CLFeGtnZhTNeRrfrnnY4Z_1AZlk2pwPn=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ARGENTINA LIVE SISE 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372172/ei/rIMrZf_vDIaXsfIP8vGzeA/ip/4.227.8.40/id/MUz2yaZrgeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8ku-cIQEEaND9BN-tVLe7trrvJSjnCAjnrLMg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgW5UFIKaZHUFIqCqsGo17PImMPHXmOAPfVjhNs64INSECIQDp3VNFSMVIpNJYGnRqGCn9V-drPdbvcxMj8dK2k7xAWw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQUkEUmZE-jNr1h_St0HJDSoAx7jjh3emFvCt3q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", PRAIA ARGENTINA LIVE
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvpVL-PUtjTS-n_7yznSTpvfhQ3FfYoS7ef5b7ww=s48-c-k-c0x00ffffff-no-rj" tvg-id="", VORTERIX - RÁDIO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372173/ei/rYMrZd2kGdvAsfIPqtmagAE/ip/4.227.8.40/id/g7Kx0AKmfTg.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_B03Wzi3V_PPQ-WuhkOeyTmz07vg1j0MG2Tcw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgR6ak23FfK9LC-SB8IILWxdw808ZIDozV8qVQKCU70XMCIEADVqbWb8f9cB_sjDkoyxtdHXgkbTSo2v9lTAjN5Ro2/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/apf1ugFYL859mHuDvR8oj5A7wPI3Q7wJEFq-4bXiotsQ3JPfPoYRJHxOJo7DgulUP20AZ7IY=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Urbana Play 104.3 FM - RÁDIO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372174/ei/rYMrZe_GPJShsfIPlZSooAk/ip/4.227.8.40/id/XxqTYlf9QK4.1/source/yt_live_broadcast/requiressl/yes/tx/51018870/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzWmheiwmTBXTN3wbckxSw4xUQhwXweU1OTD_w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRgIhANDJTH7QVyS9Ys_1ZIjrF-xxCfKLD2xX-NUBUr7BPKyFAiEA9-nLcaSVlrQH2UauunwSPhBaO26zHwiyX453WQKbPxo%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/GijbirXXgwFRgUqwtlJ4bpm3hB_Xpe3xI23TnCOxiK9Xu2MVHhOAOFNm-RDDmLoQ2YqkCYHS1A=s48-c-k-c0x00ffffff-no-rj" tvg-id="", LA 100 - RÁDIO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372174/ei/roMrZe6mItPjkgbCnbnYDQ/ip/4.227.8.40/id/b8kpvm8aetM.1/source/yt_live_broadcast/requiressl/yes/tx/24561251/txs/24561249%2C24561250%2C24561251/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f71RUgD_3z4WdlgSxwZ7CTd_fQlLebyNrPNiqA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgbOmYnhSmEDvYORcic14rIRIydArIVtExW6xnEmBtk_UCIFulFXpZEsEEuIxR72CpqaLpBAGLIDW68ez8s_w8Lztn/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/EFM248LEd3Yz4mnTrwRKbBRWP_qBAkuIv0SGSm9u63bIoGnO3OUtc8RPP4OPwDDw07DeGxhjxBo=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Radio Santa Lucia San Juan - RÁDIO
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Radio Rivadavia AM630 - RÁDIO
-https://archive.org/download/lbry-8770e4ee5844471adfdbe455230483e39ea1d0e1/8770e4ee5844471adfdbe455230483e39ea1d0e1.mp4
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/CiIegvl8wx-2EvPA6yNEUs1cpwSJZlS5DuNAkh4v2Au4mFXiyp1GazA3osHLnz2jp53RXDvH4mc=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Radio 10 - AM 710 - RÁDIO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372177/ei/sYMrZcP3DPDEsfIP3OCmkAo/ip/4.227.8.40/id/WhNjw6gmi2k.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4U5K4czaBgM5zdoI333hIPMTH5jJMInah4o5Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhAOHX77m-CHOEzBY9i05fHOWJ5lrEtEb8pzzb1vhouO2QAiAZNz1a5EPhriTW9sVB3ewkVd2NJfP49R9Q_x6kUQdQWQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/6-ovkJ4kVGq-byBEgD8s-7bXIX-GlS7VS86wS72wVriBOI7w8T6GsIAahiDBrO88o5Ov-q7L=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 30 San Juan - RÁDIO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697372177/ei/sYMrZZKDK-u9sfIPjMG32Ac/ip/4.227.8.40/id/_Y9ZyBNIJYE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5BUJm94_2YXRn5I3ZpC37rk4mSERKgWTExgYw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgPJuwUuTrkEYA2ZajlhgHP8UGjrKbFA3T4h7wjrtWhVwCIEcbZhuwjM_jP2kggR704E5C089LyKLbCarDiCaRR9Fo/file/index.m3u8
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR) - TDA 20.1
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="http://www.canal4sanjuan.com.ar/digital/images/logo-cir.png" group-title="Argentina",Canal 4 San Juan | Argentina - TDA 22.1
-http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal 26 (San Justo-Arg.) - TDA 22.2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w858131162_b414000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="Argentina",Tec TV | Argentina - TDA 22.4
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
-#EXTINF:-1 tvg-id="DeporTV Argentina" tvg-name="DeporTV Argentina" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png" group-title="Argentina",DeporTV | Argentina - TDA 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="N/A" group-title="Argentina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp",Canal Once - TDA 24.3
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="Argentina",NET TV | Argentina - TDA 27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="Argentina",Canal 4 Jujuy | Argentina - TDA 26.1
-https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/chunklist_w92188071_b316000.m3u8
-
-#EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="Argentina",Canal 4 Jujuy | Argentina - TDA 26.2
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1908572533_b316000.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal 3ABN latino - TDA 32.1
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-
-
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal 5atv
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-https://panel.dattalive.com/8250/8250/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Canal Nueve Multivisi n (AR)
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Telemax  HD Argent.
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",24/7 Canal de Noticias
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",5RTV Santa Fe
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",5TV (Corrientes) (480p)
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Ciudad TV Chaco
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Music TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="Argentina" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="277" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/277_Canal_XFN.png",Canal XFN * | AR
-https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="1026" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/1026_Tele_Mix.png",Tele Mix * | AR
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="251" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/251_13_Max_Television.png",13 Max Television | AR
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="249" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/249_5TV.png",5TV | AR
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="215" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/215_Azahares_Radio_Multimedia.png",Azahares Radio Multimedia | AR
-http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="224" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/224_Cadena_103.png",Cadena 103 | AR
-http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="299" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/299_Canal_10_Rio_Negro.png",Canal 10 Rio Negro | AR
-https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="268" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/268_Canal_12_Madryn_TV.png",Canal 12 Madryn TV | AR
-https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="227" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg",Canal 13 La Rioja | AR
-http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="228" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/228_Canal_2_Jujuy.png",Canal 2 Jujuy | AR
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="230" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg",Canal 22 Buenos Aires | AR
-https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="259" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/259_Canal_4_Posadas.png",Canal 4 Posadas | AR
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="236" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/236_Canal_9_Litoral.png",Canal 9 Litoral | AR
-https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="273" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/273_Canal_907_FM_Comunicar.png",Canal 907 FM Comunicar | AR
-https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="275" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/275_Canal_Coop.png",Canal Coop | AR
-https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="237" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg",Ciudad TV | AR
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="239" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg",Fenix | AR
-https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="212" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/212_Link_TV.png",Link TV | AR
-https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="795" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/795_Metropolitana_FM.png",Metropolitana FM | AR
-https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="284" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/284_Multivision.png",Multivisi n | AR
-https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="243" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/243_Power.png",Power | AR
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="210" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/210_Radiocanal_San_Francisco.png",Radiocanal San Francisco | AR
-http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="308" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/308_Tele_Estrella.png",Tele Estrella | AR
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="290" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/290_Telecreativa.png",Telecreativa | AR
-https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="245" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/245_Telediez.jpg",Telediez | AR
-https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="814" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg",TeleNord | AR
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="248" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/248_Uni_Teve.png",Uni Teve | AR
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="207" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg",Orbe 21 | AR
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-id="1003" group-title="Argentina" tvg-logo="https://www.m3u.cl/logo/1003_Sublime_Gracia_TV.png",Sublime Gracia TV | AR
-https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-
-
+#EXTINF:-1,MyC- DISCOVERY EN ESPAÑOL
+http://tv.nousiptv.com:8080/AR10465/10465R/56304
+#EXTINF:-1,MYC - DISCOVERY CHANNEL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4069
+#EXTINF:-1,MyC - DISCOVERY CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/1155807
+#EXTINF:-1,MYC - DISCOVERY ID FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156012
+#EXTINF:-1,MyC - DISCOVERY ID
+http://tv.nousiptv.com:8080/AR10465/10465R/4123
+#EXTINF:-1,MYC - DISCOVERY HOME & HEALTH FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4070
+#EXTINF:-1,MyC - DISCOVERY HOME & HEALTH
+http://tv.nousiptv.com:8080/AR10465/10465R/1155816
+#EXTINF:-1,MYC - DISCOVERY THEATER FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4073
+#EXTINF:-1,MyC - DISCOVERY THEATER
+http://tv.nousiptv.com:8080/AR10465/10465R/4119
+#EXTINF:-1,MYC  - DISCOVERY WORLD FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4076
+#EXTINF:-1,MyC - DISCOVERY WORLD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155812
+#EXTINF:-1,MyC - DISCOVERY SCIENCE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155818
+#EXTINF:-1,MYC - ANIMAL PLANET FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4067
+#EXTINF:-1,MyC - ANIMAL PLANET
+http://tv.nousiptv.com:8080/AR10465/10465R/1155797
+#EXTINF:-1,MYC - HISTORY FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4093
+#EXTINF:-1,MyC - HISTORY HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155804
+#EXTINF:-1,MyC - H2
+http://tv.nousiptv.com:8080/AR10465/10465R/4005
+#EXTINF:-1,MYC - NATGEO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4097
+#EXTINF:-1,MyC - NATGEO
+http://tv.nousiptv.com:8080/AR10465/10465R/4126
+#EXTINF:-1,MyC - NATGEO MUNDO
+http://tv.nousiptv.com:8080/AR10465/10465R/3774
+#EXTINF:-1,MyC - DISCOVERY TLC
+http://tv.nousiptv.com:8080/AR10465/10465R/1155820
+#EXTINF:-1,MyC - FILM & ARTS
+http://tv.nousiptv.com:8080/AR10465/10465R/3966
+#EXTINF:-1,MYC - TLC FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4074
+#EXTINF:-1,MyC - HGTV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155823
+#EXTINF:-1,MyC - HISPAN TV
+http://tv.nousiptv.com:8080/AR10465/10465R/33481
+#EXTINF:-1,MyC - RT ESPAÑOL
+http://tv.nousiptv.com:8080/AR10465/10465R/1155802
+#EXTINF:-1,MyC - DW EN ESPANOL
+http://tv.nousiptv.com:8080/AR10465/10465R/1155821
+#EXTINF:-1,LD - ESPN 1 SUR HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155888
+#EXTINF:-1,LD - ESPN 1 SUR SD
+http://tv.nousiptv.com:8080/AR10465/10465R/33469
+#EXTINF:-1,LD - ESPN 2 SUR HD
+http://tv.nousiptv.com:8080/AR10465/10465R/43637
+#EXTINF:-1,LD - ESPN 2 SUR SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155889
+#EXTINF:-1,LD - ESPN SUR 3 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155890
+#EXTINF:-1,LD - ESPN 3 SUR SD
+http://tv.nousiptv.com:8080/AR10465/10465R/43639
+#EXTINF:-1,LD - ESPN 4 SUR HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1118360
+#EXTINF:-1,LD - ESPN 4
+http://tv.nousiptv.com:8080/AR10465/10465R/18580
+#EXTINF:-1,LD - ESPN EXTRA SUR FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/7940
+#EXTINF:-1,LD - ESPN EXTRA SUR HD
+http://tv.nousiptv.com:8080/AR10465/10465R/43638
+#EXTINF:-1,LD - ESPN CHILE HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1080110
+#EXTINF:-1,LD - ESPN CHILE SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1080111
+#EXTINF:-1,LD - ESPN 4 BRASIL
+http://tv.nousiptv.com:8080/AR10465/10465R/1147322
+#EXTINF:-1,LD - ESPN MX
+http://tv.nousiptv.com:8080/AR10465/10465R/1155892
+#EXTINF:-1,LD - ESPN 2 MX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1118923
+#EXTINF:-1,LD - ESPN 3 MX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155903
+#EXTINF:-1,LD - ESPN PLUS MX
+http://tv.nousiptv.com:8080/AR10465/10465R/4120
+#EXTINF:-1,LD - ESPN EXTRA BRASIL
+http://tv.nousiptv.com:8080/AR10465/10465R/1159094
+#EXTINF:-1,LD - ESPN 1 BRASIL
+http://tv.nousiptv.com:8080/AR10465/10465R/1159095
+#EXTINF:-1,LD - ESPN 2 BRASIL
+http://tv.nousiptv.com:8080/AR10465/10465R/1159096
+#EXTINF:-1,LD - ESPN 3 BRASIL 
+http://tv.nousiptv.com:8080/AR10465/10465R/1159093
+#EXTINF:-1,LD - ESPN DEPORTES
+http://tv.nousiptv.com:8080/AR10465/10465R/1155891
+#EXTINF:-1,LD - FOX SPORTS 1 HD CHILE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155912
+#EXTINF:-1,LD - FOX SPORTS 1 SD (CHILE)
+http://tv.nousiptv.com:8080/AR10465/10465R/1095232
+#EXTINF:-1,LD - FOX SPORTS 2 SUR HD
+http://tv.nousiptv.com:8080/AR10465/10465R/16139
+#EXTINF:-1,LD - FOX SPORTS 2 SUR SD
+http://tv.nousiptv.com:8080/AR10465/10465R/42456
+#EXTINF:-1,LD - FOX SPORTS 3 SUR HD
+http://tv.nousiptv.com:8080/AR10465/10465R/33475
+#EXTINF:-1,LD - FOX SPORTS 3 SUR SD
+http://tv.nousiptv.com:8080/AR10465/10465R/43640
+#EXTINF:-1,LD - FOX SPORTS 1 HD MEX 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156755
+#EXTINF:-1,LD - FOX SPORTS 2 HD MEX 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156756
+#EXTINF:-1,LD - FOX SPORTS 3 HD MEX
+http://tv.nousiptv.com:8080/AR10465/10465R/1156757
+#EXTINF:-1,LD - FOX SPORTS 3 MX
+http://tv.nousiptv.com:8080/AR10465/10465R/4008
+#EXTINF:-1,LD - FOX SPORTS PREMIUM FHD (MX)
+http://tv.nousiptv.com:8080/AR10465/10465R/1126417
+#EXTINF:-1,LD - DIRECTV SPORTS FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1091366
+#EXTINF:-1,LD - DIRECTV SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7863
+#EXTINF:-1,LD - DIRECTV SPORTS SD
+http://tv.nousiptv.com:8080/AR10465/10465R/33512
+#EXTINF:-1,LD - DIRECTV SPORTS 2 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1091367
+#EXTINF:-1,LD - DIRECTV SPORTS 2 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/32882
+#EXTINF:-1,LD - DIRECTV SPORTS 2 SD
+http://tv.nousiptv.com:8080/AR10465/10465R/32881
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1091368
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/27879
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS SD
+http://tv.nousiptv.com:8080/AR10465/10465R/8520
+#EXTINF:-1,LD - DIRECTV FIGHT FHD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155911
+#EXTINF:-1,LD - DIRECTV MOTOR 
+http://tv.nousiptv.com:8080/AR10465/10465R/1166264
+#EXTINF:-1,LD - GOL TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1092639
+#EXTINF:-1,LD - GOL TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156009
+#EXTINF:-1,LD - GOL TV SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1092653
+#EXTINF:-1,LD - GOLF LATIN AMERICA
+http://tv.nousiptv.com:8080/AR10465/10465R/33363
+#EXTINF:-1,LD - TYC SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/8247
+#EXTINF:-1,LD - TVC DEPORTES
+http://tv.nousiptv.com:8080/AR10465/10465R/4139
+#EXTINF:-1,LD - CLARO SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/12011
+#EXTINF:-1,LD - AYM SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/1156008
+#EXTINF:-1,LD - UNIVISION TUDN USA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156010
+#EXTINF:-1,LD - UNIVISION DEPORTES FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/3962
+#EXTINF:-1,LD - UNIVISION TUDN HD
+http://tv.nousiptv.com:8080/AR10465/10465R/4117
+#EXTINF:-1,LD - TUDN FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/3963
+#EXTINF:-1,LD - UFC LIVE HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53372
+#EXTINF:-1,LD - UFC  NETWORK FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4082
+#EXTINF:-1,LD - BEIN SPORTS Ñ HD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155904
+#EXTINF:-1,LD - BEIN SPORTS SD
+http://tv.nousiptv.com:8080/AR10465/10465R/43187
+#EXTINF:-1,LD - SKY SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/1151425
+#EXTINF:-1,LD - ELEVEN SPORTS 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1147316
+#EXTINF:-1,LD - ELEVEN SPORTS 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1147317
+#EXTINF:-1,LD - ELEVEN SPORTS 3
+http://tv.nousiptv.com:8080/AR10465/10465R/1147318
+#EXTINF:-1,LD - ELEVEN SPORTS 4
+http://tv.nousiptv.com:8080/AR10465/10465R/1147319
+#EXTINF:-1,LD - ELEVEN SPORTS 5
+http://tv.nousiptv.com:8080/AR10465/10465R/1147320
+#EXTINF:-1,LD - ELEVEN SPORTS 6
+http://tv.nousiptv.com:8080/AR10465/10465R/1147321
+#EXTINF:-1,LD - TIGO SPORTS HD (PARAGUAY)
+http://tv.nousiptv.com:8080/AR10465/10465R/29832
+#EXTINF:-1,LD - VIX LO MEJOR DE LIGA MX 
+http://tv.nousiptv.com:8080/AR10465/10465R/1158436
+#EXTINF:-1,CINE - HBO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4112
+#EXTINF:-1,CINE - HBO 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155792
+#EXTINF:-1,CINE - HBO 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1155794
+#EXTINF:-1,CINE - HBO 2 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4095
+#EXTINF:-1,CINE - HBO PLUS + FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4109
+#EXTINF:-1,CINE - HBO PLUS +
+http://tv.nousiptv.com:8080/AR10465/10465R/4003
+#EXTINF:-1,CINE - HBO SIGNATURE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155796
+#EXTINF:-1,CINE - HBO XTREME FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/8226
+#EXTINF:-1,CINE - HBO XTREME
+http://tv.nousiptv.com:8080/AR10465/10465R/44341
+#EXTINF:-1,CINE - HBO POP FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/8246
+#EXTINF:-1,CINE - HBO POP
+http://tv.nousiptv.com:8080/AR10465/10465R/47445
+#EXTINF:-1,CINE - HBO FAMILY 
+http://tv.nousiptv.com:8080/AR10465/10465R/4017
+#EXTINF:-1,CINE - HBO MUNDI
+http://tv.nousiptv.com:8080/AR10465/10465R/1143815
+#EXTINF:-1,CINE - TNT FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4103
+#EXTINF:-1,CINE - TNT
+http://tv.nousiptv.com:8080/AR10465/10465R/4010
+#EXTINF:-1,CINE - TNT SERIES FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4050
+#EXTINF:-1,CINE - TNT SERIES
+http://tv.nousiptv.com:8080/AR10465/10465R/1156004
+#EXTINF:-1,CINE - STAR CHANNEL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4022
+#EXTINF:-1,CINE - STAR CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/4121
+#EXTINF:-1,CINE - CINECANAL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4068
+#EXTINF:-1,CINE - CINECANAL
+http://tv.nousiptv.com:8080/AR10465/10465R/1155785
+#EXTINF:-1,CINE - SONY FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4048
+#EXTINF:-1,CINE - SONY
+http://tv.nousiptv.com:8080/AR10465/10465R/1155800
+#EXTINF:-1,CINE - SONY MOVIES
+http://tv.nousiptv.com:8080/AR10465/10465R/1143816
+#EXTINF:-1,CINE - PARAMOUNT FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4065
+#EXTINF:-1,CINE - PARAMOUNT
+http://tv.nousiptv.com:8080/AR10465/10465R/1155799
+#EXTINF:-1,CINE - AMC FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4085
+#EXTINF:-1,CINE - AMC
+http://tv.nousiptv.com:8080/AR10465/10465R/4118
+#EXTINF:-1,CINE - SPACE FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4099
+#EXTINF:-1,CINE - I - SAT FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4098
+#EXTINF:-1,CINE - I-SAT
+http://tv.nousiptv.com:8080/AR10465/10465R/1155798
+#EXTINF:-1,CINE - A&E FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4037
+#EXTINF:-1,CINE - A&E
+http://tv.nousiptv.com:8080/AR10465/10465R/1156013
+#EXTINF:-1,CINE - AXN FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4038
+#EXTINF:-1,CINE - AXN
+http://tv.nousiptv.com:8080/AR10465/10465R/1155784
+#EXTINF:-1,CINE - CINEMAX FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4110
+#EXTINF:-1,CINE - CINEMAX
+http://tv.nousiptv.com:8080/AR10465/10465R/1068350
+#EXTINF:-1,CINE - FX FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4044
+#EXTINF:-1,CINE - FX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155789
+#EXTINF:-1,CINE - WARNER FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4053
+#EXTINF:-1,CINE - WARNER
+http://tv.nousiptv.com:8080/AR10465/10465R/1155808
+#EXTINF:-1,CINE - SYFY FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4049
+#EXTINF:-1,CINE - SYFY
+http://tv.nousiptv.com:8080/AR10465/10465R/3958
+#EXTINF:-1,CINE - TCM
+http://tv.nousiptv.com:8080/AR10465/10465R/1155806
+#EXTINF:-1,CINE - CINEMA DISNEY FAMILY
+http://tv.nousiptv.com:8080/AR10465/10465R/1161847
+#EXTINF:-1,CINE - CINEMA DC UNIVERSE
+http://tv.nousiptv.com:8080/AR10465/10465R/1161848
+#EXTINF:-1,CINE - CINEMA DREAMWORKS
+http://tv.nousiptv.com:8080/AR10465/10465R/1161849
+#EXTINF:-1,CINE - GOLDEN
+http://tv.nousiptv.com:8080/AR10465/10465R/1155790
+#EXTINF:-1,CINE - GOLDEN EDGE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155791
+#EXTINF:-1,CINE - GOLDEN PREMIERE FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4091
+#EXTINF:-1,CINE - GOLDEN PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/1148196
+#EXTINF:-1,CINE - GOLDEN PREMIERE 
+http://tv.nousiptv.com:8080/AR10465/10465R/1148844
+#EXTINF:-1,CINE - DE PELICULA PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/1155788
+#EXTINF:-1,CINE - DE PELICULA
+http://tv.nousiptv.com:8080/AR10465/10465R/1155786
+#EXTINF:-1,CINE - SUNDANCE TV
+http://tv.nousiptv.com:8080/AR10465/10465R/4101
+#EXTINF:-1,CINE - CINE LATINO
+http://tv.nousiptv.com:8080/AR10465/10465R/4136
+#EXTINF:-1,CINE - CINEMA DINAMITA
+http://tv.nousiptv.com:8080/AR10465/10465R/4142
+#EXTINF:-1,CINE - CLARO CINEMA
+http://tv.nousiptv.com:8080/AR10465/10465R/4145
+#EXTINF:-1,CINE - CINE MANIA
+http://tv.nousiptv.com:8080/AR10465/10465R/1148843
+#EXTINF:-1,CINE - CINEMA CLASSIC HORROR
+http://tv.nousiptv.com:8080/AR10465/10465R/1155106
+#EXTINF:-1,CINE - CINEMA HORROR
+http://tv.nousiptv.com:8080/AR10465/10465R/1156006
+#EXTINF:-1,CINE - CINEMA DISNEY PIXAR
+http://tv.nousiptv.com:8080/AR10465/10465R/1155781
+#EXTINF:-1,CINE - CINE ESTELAR
+http://tv.nousiptv.com:8080/AR10465/10465R/1156007
+#EXTINF:-1,CINE - CINEMA CIENCIA FICCION
+http://tv.nousiptv.com:8080/AR10465/10465R/1147993
+#EXTINF:-1,CINE - CINE FAMILIA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156760
+#EXTINF:-1,CINE - UNIVERSAL CHANNEL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4054
+#EXTINF:-1,CINE - UNIVERSAL CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/1156005
+#EXTINF:-1,CINE - STUDIO UNIVERSAL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4100
+#EXTINF:-1,CINE - STUDIO UNIVERSAL
+http://tv.nousiptv.com:8080/AR10465/10465R/1155803
+#EXTINF:-1,CINE - UNIVERSAL REALITY
+http://tv.nousiptv.com:8080/AR10465/10465R/1119205
+#EXTINF:-1,CINE - UNIVERSAL CINEMA
+http://tv.nousiptv.com:8080/AR10465/10465R/1119206
+#EXTINF:-1,CINE - UNIVERSAL CRIME ESTE
+http://tv.nousiptv.com:8080/AR10465/10465R/1119203
+#EXTINF:-1,CINE - UNIVERSAL PREMIER ESTE
+http://tv.nousiptv.com:8080/AR10465/10465R/1119204
+#EXTINF:-1,CINE - UNIVERSAL COMEDY
+http://tv.nousiptv.com:8080/AR10465/10465R/1119202
+#EXTINF:-1,CINE - UNIVERSAL CRIME OESTE
+http://tv.nousiptv.com:8080/AR10465/10465R/1119200
+#EXTINF:-1,CINE - UNIVERSAL PREMIER OESTE
+http://tv.nousiptv.com:8080/AR10465/10465R/1119201
+#EXTINF:-1,CINE - PANICO TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7436
+#EXTINF:-1,CINE - EUROPA EUROPA
+http://tv.nousiptv.com:8080/AR10465/10465R/33359
+#EXTINF:-1,CINE - SEO TV PELICULAS
+http://tv.nousiptv.com:8080/AR10465/10465R/1148845
+#EXTINF:-1,CINE - DHE
+http://tv.nousiptv.com:8080/AR10465/10465R/24180
+#EXTINF:-1,CINE - TBS
+http://tv.nousiptv.com:8080/AR10465/10465R/4011
+#EXTINF:-1,CINE - CINEMA MARVEL STUDIOS
+http://tv.nousiptv.com:8080/AR10465/10465R/44728
+#EXTINF:-1,CINE - MORBID TV
+http://tv.nousiptv.com:8080/AR10465/10465R/33364
+#EXTINF:-1,ENT - LIFETIME HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155873
+#EXTINF:-1,ENT - E! ENTERTAINMENT FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4041
+#EXTINF:-1,ENT -  E! ENTERTAINMENT HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155867
+#EXTINF:-1,ENT - DISCOVERY TURBO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4075
+#EXTINF:-1,ENT - DISCOVERY TURBO
+http://tv.nousiptv.com:8080/AR10465/10465R/1155871
+#EXTINF:-1,ENT -  EL GARAGE HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155864
+#EXTINF:-1,ENT - EL GARAGE TV
+http://tv.nousiptv.com:8080/AR10465/10465R/4016
+#EXTINF:-1,ENT - EL GOURMET FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4042
+#EXTINF:-1,ENT - El Gourmet HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155868
+#EXTINF:-1,ENT - COCINA 
+http://tv.nousiptv.com:8080/AR10465/10465R/1153332
+#EXTINF:-1,ENT - FOOD NETWORK FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4057
+#EXTINF:-1,ENT - FOOD NETWORK
+http://tv.nousiptv.com:8080/AR10465/10465R/4146
+#EXTINF:-1,ENT - COMEDY CENTRAL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4039
+#EXTINF:-1,ENT - Comedy Central HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155872
+#EXTINF:-1,ENT - DISTRITO COMEDIA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4040
+#EXTINF:-1,ENT - WOBI TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4107
+#EXTINF:-1,ENT -WOBI
+http://tv.nousiptv.com:8080/AR10465/10465R/4134
+#EXTINF:-1,ENT - GLITZ FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4045
+#EXTINF:-1,ENT -  GLITZ 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155875
+#EXTINF:-1,ENT - HOLA TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4046
+#EXTINF:-1,ENT - HOLA TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155874
+#EXTINF:-1,ENT - MAS CHIC FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4047
+#EXTINF:-1,ENT - EWTN
+http://tv.nousiptv.com:8080/AR10465/10465R/34609
+#EXTINF:-1,ENT - BITME
+http://tv.nousiptv.com:8080/AR10465/10465R/47698
+#EXTINF:-1,ENT - TRU TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1155879
+#EXTINF:-1,INF -  BABY TV HQ FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4116
+#EXTINF:-1,INF - BABY TV
+http://tv.nousiptv.com:8080/AR10465/10465R/3798
+#EXTINF:-1,INF - BABY FIRST FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4088
+#EXTINF:-1,INF - BABY FIRST
+http://tv.nousiptv.com:8080/AR10465/10465R/1155858
+#EXTINF:-1,INF - CARTOONITO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4061
+#EXTINF:-1,INF - CARTOONITO HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155854
+#EXTINF:-1,INF - TOONCAST FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4051
+#EXTINF:-1,INF -  TOONCAST
+http://tv.nousiptv.com:8080/AR10465/10465R/1155861
+#EXTINF:-1,INF - NICKELODEON FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4058
+#EXTINF:-1,INF - NICKELODEON HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155856
+#EXTINF:-1,INF - DISCOVERY KIDS FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4072
+#EXTINF:-1,INF - DISCOVERY KIDS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155851
+#EXTINF:-1,INF - CARTOON NETWORK FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4063
+#EXTINF:-1,INF - CARTOON NETWORK
+http://tv.nousiptv.com:8080/AR10465/10465R/1155850
+#EXTINF:-1,INF - DISNEY CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/4004
+#EXTINF:-1,INF - DISNEY JR FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4111
+#EXTINF:-1,INF  - DISNEY JR
+http://tv.nousiptv.com:8080/AR10465/10465R/1144260
+#EXTINF:-1,INF - NICK JUNIOR
+http://tv.nousiptv.com:8080/AR10465/10465R/4194
+#EXTINF:-1,INF - TEEN NICK 
+http://tv.nousiptv.com:8080/AR10465/10465R/4140
+#EXTINF:-1,CINP - STARZ IN BLACK
+http://tv.nousiptv.com:8080/AR10465/10465R/8137
+#EXTINF:-1,CINP - STARZ ENCORE BLACK
+http://tv.nousiptv.com:8080/AR10465/10465R/8127
+#EXTINF:-1,CINP - STARZ ENCORE ACTION HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8128
+#EXTINF:-1,CINP - STARZ KIDS & FAMILY
+http://tv.nousiptv.com:8080/AR10465/10465R/8133
+#EXTINF:-1,CINP - STARZ WESTERN HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8134
+#EXTINF:-1,CINP - STARZ CINEMA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8136
+#EXTINF:-1,CINP - STARZ COMEDY HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8135
+#EXTINF:-1,CINP - STARZ IN BLACK
+http://tv.nousiptv.com:8080/AR10465/10465R/8126
+#EXTINF:-1,CINP - SHOW TIME HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8138
+#EXTINF:-1,CINP - SHOWTIME BEYOND HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8139
+#EXTINF:-1,CINP - SHOWTIME EAST
+http://tv.nousiptv.com:8080/AR10465/10465R/8140
+#EXTINF:-1,CINP - SHOTIME WEST HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8141
+#EXTINF:-1,CINP - MORE MAX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8143
+#EXTINF:-1,CINP - MOVIE MAX
+http://tv.nousiptv.com:8080/AR10465/10465R/8144
+#EXTINF:-1,CINP - MOVIEPLEX
+http://tv.nousiptv.com:8080/AR10465/10465R/8145
+#EXTINF:-1,CINP - OUTERMAX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8146
+#EXTINF:-1,CINP - INDIE PLEX
+http://tv.nousiptv.com:8080/AR10465/10465R/8142
+#EXTINF:-1,CINP - RETROPLEX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8147
+#EXTINF:-1,URU - CANAL 4 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/8334
+#EXTINF:-1,URU - CANAL 4 SD
+http://tv.nousiptv.com:8080/AR10465/10465R/18261
+#EXTINF:-1,URU - CANAL 10 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/18567
+#EXTINF:-1,URU - CANAL 10 SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155782
+#EXTINF:-1,URU - TELE12 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156212
+#EXTINF:-1,URU - TELE12 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/18731
+#EXTINF:-1,URU - TELE12 SD
+http://tv.nousiptv.com:8080/AR10465/10465R/18578
+#EXTINF:-1,URU - TV CIUDAD HD
+http://tv.nousiptv.com:8080/AR10465/10465R/19352
+#EXTINF:-1,URU - TV CIUDAD SD
+http://tv.nousiptv.com:8080/AR10465/10465R/16136
+#EXTINF:-1,URU  - A+V 
+http://tv.nousiptv.com:8080/AR10465/10465R/51359
+#EXTINF:-1,URU - CANAL 5 URUGUAY 
+http://tv.nousiptv.com:8080/AR10465/10465R/19351
+#EXTINF:-1,URU - ESPN URUGUAY
+http://tv.nousiptv.com:8080/AR10465/10465R/1156002
+#EXTINF:-1,URU - DIRECTV URUGUAY 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156003
+#EXTINF:-1,URU - GOL TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1137832
+#EXTINF:-1,URU - VTV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/3802
+#EXTINF:-1,URU - VTV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/22204
+#EXTINF:-1,URU - VTV Plus HD
+http://tv.nousiptv.com:8080/AR10465/10465R/19354
+#EXTINF:-1,URU - VTV Plus SD
+http://tv.nousiptv.com:8080/AR10465/10465R/52513
+#EXTINF:-1,URU - CANAL 11 PUNTA DEL ESTE HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1139100
+#EXTINF:-1,URU - LA RED
+http://tv.nousiptv.com:8080/AR10465/10465R/35428
+#EXTINF:-1,URU - MAROÑAS ENTERTAIMENT 
+http://tv.nousiptv.com:8080/AR10465/10465R/31618
+#EXTINF:-1,URU - 1000 x HORA 
+http://tv.nousiptv.com:8080/AR10465/10465R/34605
+#EXTINF:-1,URU - PPV URUGUAY 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1155780
+#EXTINF:-1,URU - PPV URUGUAY 2
+http://tv.nousiptv.com:8080/AR10465/10465R/7943
+#EXTINF:-1,URU - PPV URUGUAY 3
+http://tv.nousiptv.com:8080/AR10465/10465R/43600
+#EXTINF:-1,URU - PRUEBA Star + 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156974
+#EXTINF:-1,MX - UNO MVS TV
+http://tv.nousiptv.com:8080/AR10465/10465R/6022
+#EXTINF:-1,MX - AZTECA UNO HD
+http://tv.nousiptv.com:8080/AR10465/10465R/4087
+#EXTINF:-1,MX - AZTECA UNO HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155859
+#EXTINF:-1,MX - AZTECA UNO
+http://tv.nousiptv.com:8080/AR10465/10465R/1155860
+#EXTINF:-1,MX - EL CANAL DE LAS ESTRELLAS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/4030
+#EXTINF:-1,MX - TL TELENOVELAS
+http://tv.nousiptv.com:8080/AR10465/10465R/4130
+#EXTINF:-1,MX -  FORO TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155869
+#EXTINF:-1,MX -  FORO TV 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155870
+#EXTINF:-1,MX - FORO TV
+http://tv.nousiptv.com:8080/AR10465/10465R/4029
+#EXTINF:-1,MX - CANAL 5 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4028
+#EXTINF:-1,MX - CANAL 5 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155865
+#EXTINF:-1,MX - CANAL 5
+http://tv.nousiptv.com:8080/AR10465/10465R/1155866
+#EXTINF:-1,MX - CN6
+http://tv.nousiptv.com:8080/AR10465/10465R/1160042
+#EXTINF:-1,MX - AZTECA 7 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4027
+#EXTINF:-1,MX - AZTECA 7 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155862
+#EXTINF:-1,MX - AZTECA 7
+http://tv.nousiptv.com:8080/AR10465/10465R/1155863
+#EXTINF:-1,MX - GALA TV
+http://tv.nousiptv.com:8080/AR10465/10465R/4031
+#EXTINF:-1,MX - NUEVE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155855
+#EXTINF:-1,MX - ONCE TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4035
+#EXTINF:-1,MX - ONCE TV NIÑOS Y NIÑAS
+http://tv.nousiptv.com:8080/AR10465/10465R/47697
+#EXTINF:-1,MX - TV UNAM
+http://tv.nousiptv.com:8080/AR10465/10465R/18574
+#EXTINF:-1,MX - UNICABLE FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4052
+#EXTINF:-1,MX - UNICABLE HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155852
+#EXTINF:-1,MX - UNICABLE 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155853
+#EXTINF:-1,MX- IMAGEN TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1124600
+#EXTINF:-1,MX - IMAGEN TV
+http://tv.nousiptv.com:8080/AR10465/10465R/4149
+#EXTINF:-1,MX - ADN 40
+http://tv.nousiptv.com:8080/AR10465/10465R/4025
+#EXTINF:-1,MX - TUDN MX FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1105665
+#EXTINF:-1,MX - AZ MUNDO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4055
+#EXTINF:-1,MX - AZ CINEMA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4086
+#EXTINF:-1,MX - CORAZON HD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155857
+#EXTINF:-1,MX - AZ CORAZON
+http://tv.nousiptv.com:8080/AR10465/10465R/4026
+#EXTINF:-1,MX - Comedy Central
+http://tv.nousiptv.com:8080/AR10465/10465R/1158426
+#EXTINF:-1,MX - MILENIO TV 
+http://tv.nousiptv.com:8080/AR10465/10465R/1158427
+#EXTINF:-1,MX - INGENIO TV
+http://tv.nousiptv.com:8080/AR10465/10465R/33358
+#EXTINF:-1,MX - TELEVISA MTY
+http://tv.nousiptv.com:8080/AR10465/10465R/4066
+#EXTINF:-1,MX - MULTIMEDIOS MONTERREY
+http://tv.nousiptv.com:8080/AR10465/10465R/4125
+#EXTINF:-1,MX - MULTIMEDIOS MONTERREY PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/4034
+#EXTINF:-1,MX - MULTIMEDIOS MONTERREY FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4033
+#EXTINF:-1,MX - TELEFORMULA
+http://tv.nousiptv.com:8080/AR10465/10465R/4129
+#EXTINF:-1,MX -  Adrenalina Sports Network HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1153331
+#EXTINF:-1,MX - TELEFORMULA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4036
+#EXTINF:-1,MX - TV4
+http://tv.nousiptv.com:8080/AR10465/10465R/33367
+#EXTINF:-1,MX - TVC
+http://tv.nousiptv.com:8080/AR10465/10465R/4105
+#EXTINF:-1,MX - TV MAS
+http://tv.nousiptv.com:8080/AR10465/10465R/33365
+#EXTINF:-1,MX - AFIZZIONADOS
+http://tv.nousiptv.com:8080/AR10465/10465R/8248
+#EXTINF:-1,CHILE - LA RED HD
+http://tv.nousiptv.com:8080/AR10465/10465R/51823
+#EXTINF:-1,CHILE - LA RED
+http://tv.nousiptv.com:8080/AR10465/10465R/51824
+#EXTINF:-1,CHILE - CANAL 13 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1145137
+#EXTINF:-1,CHILE - CANAL 13 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/3853
+#EXTINF:-1,CHILE - MEGA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155841
+#EXTINF:-1,CHILE - MEGA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155842
+#EXTINF:-1,CHILE - TVN FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155826
+#EXTINF:-1,CHILE - TVN HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155817
+#EXTINF:-1,CHILE - CHILEVISION FHD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155835
+#EXTINF:-1,CHILE - CHILEVISION HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155836
+#EXTINF:-1,CHILE - 13C FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1091369
+#EXTINF:-1,CHILE - 13C HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1091370
+#EXTINF:-1,CHILE - 24 HORAS
+http://tv.nousiptv.com:8080/AR10465/10465R/23237
+#EXTINF:-1,CHILE - NTV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/27103
+#EXTINF:-1,CHILE - TV+ HD
+http://tv.nousiptv.com:8080/AR10465/10465R/30700
+#EXTINF:-1,CHILE - TV+
+http://tv.nousiptv.com:8080/AR10465/10465R/1094403
+#EXTINF:-1,CHILE - ZONA LATINA
+http://tv.nousiptv.com:8080/AR10465/10465R/1141627
+#EXTINF:-1,CHILE - VIAX
+http://tv.nousiptv.com:8080/AR10465/10465R/1142322
+#EXTINF:-1,CHILE - REC TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1155840
+#EXTINF:-1,CHILE - TELETRAK HD
+http://tv.nousiptv.com:8080/AR10465/10465R/3854
+#EXTINF:-1,CHILE - CNN CHILE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155843
+#EXTINF:-1,CHILE - ESPN CHILE HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1068348
+#EXTINF:-1,CHILE - ESPN CHILE
+http://tv.nousiptv.com:8080/AR10465/10465R/1117657
+#EXTINF:-1,CHILE - ESTADIO TNT
+http://tv.nousiptv.com:8080/AR10465/10465R/6979
+#EXTINF:-1,CHILE-TNT SPORTS FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1160041
+#EXTINF:-1,CHILE - TNT SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156014
+#EXTINF:-1,CHILE - TNT SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/16138
+#EXTINF:-1,CHILE - TNT SPORTS 2 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1129864
+#EXTINF:-1,CHILE - TNT SPORTS 2 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1129865
+#EXTINF:-1,CHILE - TNT SPORTS 3
+http://tv.nousiptv.com:8080/AR10465/10465R/1068349
+#EXTINF:-1,CHILE - CDO PREMIUM 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155837
+#EXTINF:-1,ECU - CANAL UNO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/8083
+#EXTINF:-1,ECU - CANAL UNO SD
+http://tv.nousiptv.com:8080/AR10465/10465R/53452
+#EXTINF:-1,ECU - ECUAVISA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53455
+#EXTINF:-1,ECU - ECUAVISA SD
+http://tv.nousiptv.com:8080/AR10465/10465R/8084
+#EXTINF:-1,EC - DIRECTV SPORTS FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53462
+#EXTINF:-1,ECU - DIRECTV SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/23239
+#EXTINF:-1,EC - DIRECTV SPORTS 2 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53489
+#EXTINF:-1,EC - DIRECTV SPORTS + FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53490
+#EXTINF:-1,ECU - CNT SPORTS / GOL TV
+http://tv.nousiptv.com:8080/AR10465/10465R/7471
+#EXTINF:-1,ECU - ECUADOR TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53453
+#EXTINF:-1,ECU - GAMAVISIÓN FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53456
+#EXTINF:-1,ECU - RTS
+http://tv.nousiptv.com:8080/AR10465/10465R/7534
+#EXTINF:-1,ECU - RTS SD
+http://tv.nousiptv.com:8080/AR10465/10465R/53457
+#EXTINF:-1,ECU - TC TELEVISION FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53458
+#EXTINF:-1,ECU - TC TELEVISION HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7533
+#EXTINF:-1,ECU - TELEAMAZONAS FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/7532
+#EXTINF:-1,EC - TELEAMAZONAS SD
+http://tv.nousiptv.com:8080/AR10465/10465R/53459
+#EXTINF:-1,EC - TVC FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53460
+#EXTINF:-1,EC - OROMAR TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1155849
+#EXTINF:-1,ECU - GOL TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53381
+#EXTINF:-1,EC - GOL TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53491
+#EXTINF:-1,ECU - GOL TV SD
+http://tv.nousiptv.com:8080/AR10465/10465R/25753
+#EXTINF:-1,EC - EL CANAL DEL FÚTBOL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1092640
+#EXTINF:-1,EC - EL CANAL DEL FÚTBOL HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1086208
+#EXTINF:-1,EC - PPV ECUADOR
+http://tv.nousiptv.com:8080/AR10465/10465R/1118922
+#EXTINF:-1,EC - STAR + (SOLO EVENTOS)
+http://tv.nousiptv.com:8080/AR10465/10465R/1118924
+#EXTINF:-1,ARG - EL TRECE ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/51070
+#EXTINF:-1,ARG - EL TRECE
+http://tv.nousiptv.com:8080/AR10465/10465R/7431
+#EXTINF:-1,ARG - EL NUEVE ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/51072
+#EXTINF:-1,ARG - EL NUEVE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155825
+#EXTINF:-1,ARG - TELEFE ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/51071
+#EXTINF:-1,ARG - TELEFE 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155824
+#EXTINF:-1,ARG - AMERICA HD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155829
+#EXTINF:-1,ARG - AMERICA SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155830
+#EXTINF:-1,ARG - A24 ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/51073
+#EXTINF:-1,ARG - A24 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155831
+#EXTINF:-1,ARG - TV PUBLICA ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/8183
+#EXTINF:-1,ARG - TV PUBLICA 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155822
+#EXTINF:-1,ARG - TN
+http://tv.nousiptv.com:8080/AR10465/10465R/18766
+#EXTINF:-1,ARG - C5N HD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155832
+#EXTINF:-1,ARG - C5N
+http://tv.nousiptv.com:8080/AR10465/10465R/17901
+#EXTINF:-1,ARG - CRONICA
+http://tv.nousiptv.com:8080/AR10465/10465R/4188
+#EXTINF:-1,ARG - NET TV HD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155827
+#EXTINF:-1,ARG - NET TV
+http://tv.nousiptv.com:8080/AR10465/10465R/23229
+#EXTINF:-1,ARG - CANAL 26
+http://tv.nousiptv.com:8080/AR10465/10465R/1155833
+#EXTINF:-1,ARG - CIUDAD MAGAZINE
+http://tv.nousiptv.com:8080/AR10465/10465R/3787
+#EXTINF:-1,ARG - LN+
+http://tv.nousiptv.com:8080/AR10465/10465R/7976
+#EXTINF:-1,ARG - CN23
+http://tv.nousiptv.com:8080/AR10465/10465R/23230
+#EXTINF:-1,ARG - ORBE 21
+http://tv.nousiptv.com:8080/AR10465/10465R/1161240
+#EXTINF:-1,ARG - VOLVER
+http://tv.nousiptv.com:8080/AR10465/10465R/7978
+#EXTINF:-1,ARG - ENCUENTRO
+http://tv.nousiptv.com:8080/AR10465/10465R/7974
+#EXTINF:-1,ARG - EL GARAGE TV
+http://tv.nousiptv.com:8080/AR10465/10465R/7975
+#EXTINF:-1,ARG - CINE AR
+http://tv.nousiptv.com:8080/AR10465/10465R/7981
+#EXTINF:-1,ARG - DEPORTV
+http://tv.nousiptv.com:8080/AR10465/10465R/29348
+#EXTINF:-1,ARG - Canal 9 Comodoro Rivadavia
+http://tv.nousiptv.com:8080/AR10465/10465R/1139409
+#EXTINF:-1,ARG -HIPODROMO P. REMON
+http://tv.nousiptv.com:8080/AR10465/10465R/1139098
+#EXTINF:-1,ARG - TYC SPORTS 2
+http://tv.nousiptv.com:8080/AR10465/10465R/49525
+#EXTINF:-1,ARG - TNT SPORTS HD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155814
+#EXTINF:-1,ARG - TNT SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/33457
+#EXTINF:-1,ARG - TYC SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155819
+#EXTINF:-1,ARG - TYC SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/43633
+#EXTINF:-1,ARG - ESPN 1 ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/1090736
+#EXTINF:-1,ARG - ESPN 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1090737
+#EXTINF:-1,ARG - ESPN 2 ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/1089695
+#EXTINF:-1,ARG - ESPN 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1089694
+#EXTINF:-1,ARG - ESPN PREMIUM ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/8330
+#EXTINF:-1,ARG - ESPN PREMIUM
+http://tv.nousiptv.com:8080/AR10465/10465R/4193
+#EXTINF:-1,ARG - FOX SPORTS 1 ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/1090738
+#EXTINF:-1,ARG - FOX SPORTS 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1090739
+#EXTINF:-1,ARG - FOX SPORTS 2 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1090741
+#EXTINF:-1,ARG - FOX SPORTS 2 ᴴᴰ
+http://tv.nousiptv.com:8080/AR10465/10465R/1090740
+#EXTINF:-1,COL - SEÑAL COLOMBIA
+http://tv.nousiptv.com:8080/AR10465/10465R/1155811
+#EXTINF:-1,COL - CANAL UNO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1066863
+#EXTINF:-1,COL - RCN FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155793
+#EXTINF:-1,COL - RCN HD
+http://tv.nousiptv.com:8080/AR10465/10465R/4002
+#EXTINF:-1,COL- RCN SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1087192
+#EXTINF:-1,COL - CARACOL HD 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155783
+#EXTINF:-1,COL - CARACOL SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155787
+#EXTINF:-1,COL - RCN NOVELAS 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155809
+#EXTINF:-1,COL - NTN 24
+http://tv.nousiptv.com:8080/AR10465/10465R/41815
+#EXTINF:-1,COL - TELECARIBE HD
+http://tv.nousiptv.com:8080/AR10465/10465R/43625
+#EXTINF:-1,COL - TELEPACIFICO
+http://tv.nousiptv.com:8080/AR10465/10465R/47693
+#EXTINF:-1,COL - TELEANTIOQUIA 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155801
+#EXTINF:-1,COL - CABLE NOTICIAS
+http://tv.nousiptv.com:8080/AR10465/10465R/1155805
+#EXTINF:-1,COL - TELECAFE
+http://tv.nousiptv.com:8080/AR10465/10465R/1155810
+#EXTINF:-1,COL - CITY TV 
+http://tv.nousiptv.com:8080/AR10465/10465R/1155813
+#EXTINF:-1,COL - WIN SPORTS + FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/16724
+#EXTINF:-1,COL - WIN SPORTS + HD
+http://tv.nousiptv.com:8080/AR10465/10465R/54738
+#EXTINF:-1,COL - WIN SPORTS + SD
+http://tv.nousiptv.com:8080/AR10465/10465R/16723
+#EXTINF:-1,COL - WIN SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1155795
+#EXTINF:-1,COL - ESPN COLOMBIA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1119288
+#EXTINF:-1,BRA - TV BRASIL
+http://tv.nousiptv.com:8080/AR10465/10465R/7769
+#EXTINF:-1,BRA - SBT
+http://tv.nousiptv.com:8080/AR10465/10465R/7768
+#EXTINF:-1,BRA - GLOBO HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7772
+#EXTINF:-1,BRA - TV GLOBO FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/7773
+#EXTINF:-1,BRA - GLOBO RIO HD
+http://tv.nousiptv.com:8080/AR10465/10465R/43624
+#EXTINF:-1,BRA - GLOBO BRASILIA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/43623
+#EXTINF:-1,BRA - GLOBO NEWS
+http://tv.nousiptv.com:8080/AR10465/10465R/7771
+#EXTINF:-1,BRA - GLOBO NEWS
+http://tv.nousiptv.com:8080/AR10465/10465R/7774
+#EXTINF:-1,BRA - GLOBO RBS POA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1168227
+#EXTINF:-1,BRA - MEGAPIX
+http://tv.nousiptv.com:8080/AR10465/10465R/8324
+#EXTINF:-1,BRA - WOOHOO
+http://tv.nousiptv.com:8080/AR10465/10465R/8327
+#EXTINF:-1,BRA - ARTE 1
+http://tv.nousiptv.com:8080/AR10465/10465R/8328
+#EXTINF:-1,BRA - CNN BRASIL
+http://tv.nousiptv.com:8080/AR10465/10465R/18553
+#EXTINF:-1,BRA - BAND NEW
+http://tv.nousiptv.com:8080/AR10465/10465R/29329
+#EXTINF:-1,BRA - BAND SPORT
+http://tv.nousiptv.com:8080/AR10465/10465R/29330
+#EXTINF:-1,BRA - BAND NOTICIAS
+http://tv.nousiptv.com:8080/AR10465/10465R/29331
+#EXTINF:-1,BRA - RECORD PB
+http://tv.nousiptv.com:8080/AR10465/10465R/7770
+#EXTINF:-1,BRA - RECORD
+http://tv.nousiptv.com:8080/AR10465/10465R/44841
+#EXTINF:-1,BRA - BAND SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/17186
+#EXTINF:-1,BRA - VIVA
+http://tv.nousiptv.com:8080/AR10465/10465R/1117624
+#EXTINF:-1,BRA - TELECINE PREMIUM HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7782
+#EXTINF:-1,BRA - TELECINE FUN
+http://tv.nousiptv.com:8080/AR10465/10465R/7783
+#EXTINF:-1,BRA - TELECINE CULT
+http://tv.nousiptv.com:8080/AR10465/10465R/7781
+#EXTINF:-1,BRA - TELECINE ACTION
+http://tv.nousiptv.com:8080/AR10465/10465R/7780
+#EXTINF:-1,BRA - MAIS GLOBOSAT
+http://tv.nousiptv.com:8080/AR10465/10465R/7777
+#EXTINF:-1,BRA - FUTURA
+http://tv.nousiptv.com:8080/AR10465/10465R/7776
+#EXTINF:-1,BRA - ELEVEN SPORTS 1
+http://tv.nousiptv.com:8080/AR10465/10465R/18542
+#EXTINF:-1,BRA - CONMEBOL TV
+http://tv.nousiptv.com:8080/AR10465/10465R/18549
+#EXTINF:-1,BRA - COMBATE
+http://tv.nousiptv.com:8080/AR10465/10465R/18566
+#EXTINF:-1,BRA - COMBAT
+http://tv.nousiptv.com:8080/AR10465/10465R/29328
+#EXTINF:-1,BRA - ESPN
+http://tv.nousiptv.com:8080/AR10465/10465R/7784
+#EXTINF:-1,BRA - ESPN 2 
+http://tv.nousiptv.com:8080/AR10465/10465R/1159097
+#EXTINF:-1,BRA - ESPN 3
+http://tv.nousiptv.com:8080/AR10465/10465R/1159098
+#EXTINF:-1,BRA - ESPN 4
+http://tv.nousiptv.com:8080/AR10465/10465R/1159099
+#EXTINF:-1,BRA - ESPN EXTRA
+http://tv.nousiptv.com:8080/AR10465/10465R/1095615
+#EXTINF:-1,BRA -  AMAZON PRIME 01
+http://tv.nousiptv.com:8080/AR10465/10465R/1154246
+#EXTINF:-1,BRA - SPORTV
+http://tv.nousiptv.com:8080/AR10465/10465R/7791
+#EXTINF:-1,BRA - SPORTV 2
+http://tv.nousiptv.com:8080/AR10465/10465R/7792
+#EXTINF:-1,BRA - SPORTV 3
+http://tv.nousiptv.com:8080/AR10465/10465R/53171
+#EXTINF:-1,BRA - FOX SPORTS BR
+http://tv.nousiptv.com:8080/AR10465/10465R/7785
+#EXTINF:-1,BRA - FOX SPORTS 2 BR
+http://tv.nousiptv.com:8080/AR10465/10465R/7786
+#EXTINF:-1,BRA - FISH TV
+http://tv.nousiptv.com:8080/AR10465/10465R/7779
+#EXTINF:-1,BRA - PREMBOX
+http://tv.nousiptv.com:8080/AR10465/10465R/29340
+#EXTINF:-1,BRA - PREM CLUBES
+http://tv.nousiptv.com:8080/AR10465/10465R/29199
+#EXTINF:-1,BRA - PREM CLUBES EXTRA
+http://tv.nousiptv.com:8080/AR10465/10465R/29338
+#EXTINF:-1,BRA - PREM 1
+http://tv.nousiptv.com:8080/AR10465/10465R/29339
+#EXTINF:-1,BRA - PREM 2
+http://tv.nousiptv.com:8080/AR10465/10465R/29332
+#EXTINF:-1,BRA - PREM 3
+http://tv.nousiptv.com:8080/AR10465/10465R/29333
+#EXTINF:-1,BRA - PREM 4
+http://tv.nousiptv.com:8080/AR10465/10465R/29334
+#EXTINF:-1,BRA - PREM 5
+http://tv.nousiptv.com:8080/AR10465/10465R/29335
+#EXTINF:-1,BRA - PREM 6
+http://tv.nousiptv.com:8080/AR10465/10465R/29336
+#EXTINF:-1,BRA - PREM 7
+http://tv.nousiptv.com:8080/AR10465/10465R/29337
+#EXTINF:-1,LAT - GALAVISION HD
+http://tv.nousiptv.com:8080/AR10465/10465R/3793
+#EXTINF:-1,LAT - CNN EN ESPAÑOL
+http://tv.nousiptv.com:8080/AR10465/10465R/4014
+#EXTINF:-1,LAT - CNN USA
+http://tv.nousiptv.com:8080/AR10465/10465R/33360
+#EXTINF:-1,LAT - ESTRELLA TV
+http://tv.nousiptv.com:8080/AR10465/10465R/41188
+#EXTINF:-1,LAT - CBS BOSTON
+http://tv.nousiptv.com:8080/AR10465/10465R/45550
+#EXTINF:-1,LAT - NBC  BOSTON
+http://tv.nousiptv.com:8080/AR10465/10465R/45551
+#EXTINF:-1,LAT - FOX BOSTON
+http://tv.nousiptv.com:8080/AR10465/10465R/45552
+#EXTINF:-1,LAT - AMERICA TEVE
+http://tv.nousiptv.com:8080/AR10465/10465R/48119
+#EXTINF:-1,LAT - PASIONES
+http://tv.nousiptv.com:8080/AR10465/10465R/49168
+#EXTINF:-1,LAT-USA-PASIONES(2)
+http://tv.nousiptv.com:8080/AR10465/10465R/1085156
+#EXTINF:-1,LAT - UNIVISION DALLAS
+http://tv.nousiptv.com:8080/AR10465/10465R/18559
+#EXTINF:-1,LAT - UNIVISION SAN FRANCISCO
+http://tv.nousiptv.com:8080/AR10465/10465R/18560
+#EXTINF:-1,LAT - UNIVISION LAS VEGAS
+http://tv.nousiptv.com:8080/AR10465/10465R/18563
+#EXTINF:-1,LAT - UNIVISION LOS ANGELES
+http://tv.nousiptv.com:8080/AR10465/10465R/18564
+#EXTINF:-1,LAT - UNIVISION DENVER
+http://tv.nousiptv.com:8080/AR10465/10465R/18565
+#EXTINF:-1,LAT - UNIVISION NOTICIAS
+http://tv.nousiptv.com:8080/AR10465/10465R/18568
+#EXTINF:-1,LAT- UNIVISION ATLANTA
+http://tv.nousiptv.com:8080/AR10465/10465R/56303
+#EXTINF:-1,LAT - UNIVISION TELENOVELAS
+http://tv.nousiptv.com:8080/AR10465/10465R/1090591
+#EXTINF:-1,LAT - Univision New York HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156211
+#EXTINF:-1,LAT - Univision Miami HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156213
+#EXTINF:-1,LAT - UNIVISION CHICAGO
+http://tv.nousiptv.com:8080/AR10465/10465R/47679
+#EXTINF:-1,LAT - TELEMUNDO INTERNACIONAL
+http://tv.nousiptv.com:8080/AR10465/10465R/43189
+#EXTINF:-1,LAT - TELEMUNDO BOSTON
+http://tv.nousiptv.com:8080/AR10465/10465R/3794
+#EXTINF:-1,LAT - TELEMUNDO DENVER
+http://tv.nousiptv.com:8080/AR10465/10465R/18570
+#EXTINF:-1,LAT - TELEMUNDO LAS VEGAS
+http://tv.nousiptv.com:8080/AR10465/10465R/18775
+#EXTINF:-1,LAT - TELEMUNDO HOUSTON
+http://tv.nousiptv.com:8080/AR10465/10465R/18776
+#EXTINF:-1,LAT - TELEMUNDO PHILADELPHIA 
+http://tv.nousiptv.com:8080/AR10465/10465R/43289
+#EXTINF:-1,LAT- TELEMUNDO TAMPA
+http://tv.nousiptv.com:8080/AR10465/10465R/1070040
+#EXTINF:-1,LAT- TELEMUNDO ORLANDO
+http://tv.nousiptv.com:8080/AR10465/10465R/1118963
+#EXTINF:-1,LAT - TELEMUNDO MIAMI
+http://tv.nousiptv.com:8080/AR10465/10465R/1156210
+#EXTINF:-1,LAT - TELEMUNDO 39 DALLAS
+http://tv.nousiptv.com:8080/AR10465/10465R/30216
+#EXTINF:-1,LAT - TELEMUNDO 44 CHICAGO
+http://tv.nousiptv.com:8080/AR10465/10465R/30215
+#EXTINF:-1,LAT - TELEMUNDO 47
+http://tv.nousiptv.com:8080/AR10465/10465R/8209
+#EXTINF:-1,LAT - TELEMUNDO 47 NEW YORK
+http://tv.nousiptv.com:8080/AR10465/10465R/30213
+#EXTINF:-1,LAT - TELEMUNDO 48 SAN FRANCISCO
+http://tv.nousiptv.com:8080/AR10465/10465R/18780
+#EXTINF:-1,LAT - TELEMUNDO 60 SAN ANTONIO
+http://tv.nousiptv.com:8080/AR10465/10465R/18777
+#EXTINF:-1,LAT - TELEMUNDO 51 MIAMI
+http://tv.nousiptv.com:8080/AR10465/10465R/18779
+#EXTINF:-1,LAT - TELEMUNDO 52 LOS ANGELES
+http://tv.nousiptv.com:8080/AR10465/10465R/18778
+#EXTINF:-1,LAT - UNIVISION HD
+http://tv.nousiptv.com:8080/AR10465/10465R/3796
+#EXTINF:-1,LAT - UNIMAS DALLAS
+http://tv.nousiptv.com:8080/AR10465/10465R/3795
+#EXTINF:-1,LAT - UNIMAS MIAMI
+http://tv.nousiptv.com:8080/AR10465/10465R/18773
+#EXTINF:-1,LAT - UNIMAS LOS ANGELES
+http://tv.nousiptv.com:8080/AR10465/10465R/18774
+#EXTINF:-1,LAT - UNIMAS NEW YORK
+http://tv.nousiptv.com:8080/AR10465/10465R/18772
+#EXTINF:-1,LAT - UNIMAS DENVER
+http://tv.nousiptv.com:8080/AR10465/10465R/18572
+#EXTINF:-1,LAT - NEWS 12 NEW JERSEY
+http://tv.nousiptv.com:8080/AR10465/10465R/1160043
+#EXTINF:-1,PAN - RPC HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1117145
+#EXTINF:-1,PAN - RPC SD
+http://tv.nousiptv.com:8080/AR10465/10465R/6024
+#EXTINF:-1,PAN - TVN FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53494
+#EXTINF:-1,PAN - TVN HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53493
+#EXTINF:-1,PAN - TVN SD
+http://tv.nousiptv.com:8080/AR10465/10465R/7446
+#EXTINF:-1,PAN - TV MAX FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/6025
+#EXTINF:-1,PAN - TV MAX SD
+http://tv.nousiptv.com:8080/AR10465/10465R/53492
+#EXTINF:-1,PAN - NEXT TV
+http://tv.nousiptv.com:8080/AR10465/10465R/5476
+#EXTINF:-1,PAN - TELEMETRO CANAL 13 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7685
+#EXTINF:-1,PAN - TELEMETRO CANAL 13 SD
+http://tv.nousiptv.com:8080/AR10465/10465R/53495
+#EXTINF:-1,PAN - ECO TV
+http://tv.nousiptv.com:8080/AR10465/10465R/16719
+#EXTINF:-1,PAN - MAS TV 23 SD
+http://tv.nousiptv.com:8080/AR10465/10465R/16718
+#EXTINF:-1,PAN- CABLE ONDA SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/1078662
+#EXTINF:-1,PAN- CABLE ONDA SPORTS  FC
+http://tv.nousiptv.com:8080/AR10465/10465R/1078663
+#EXTINF:-1,PAN - TIGO SPORT
+http://tv.nousiptv.com:8080/AR10465/10465R/1151424
+#EXTINF:-1,RD - TELERADIO AMERICA
+http://tv.nousiptv.com:8080/AR10465/10465R/5472
+#EXTINF:-1,RD - Television Dominicana
+http://tv.nousiptv.com:8080/AR10465/10465R/41291
+#EXTINF:-1,RD - TELEMICRO CANAL 5
+http://tv.nousiptv.com:8080/AR10465/10465R/5471
+#EXTINF:-1,RD - CDN
+http://tv.nousiptv.com:8080/AR10465/10465R/30080
+#EXTINF:-1,RD - RNN
+http://tv.nousiptv.com:8080/AR10465/10465R/8239
+#EXTINF:-1,RD - COLOR VISION
+http://tv.nousiptv.com:8080/AR10465/10465R/8242
+#EXTINF:-1,RD - DIGITAL 15
+http://tv.nousiptv.com:8080/AR10465/10465R/8243
+#EXTINF:-1,RD - TELESISTEMA
+http://tv.nousiptv.com:8080/AR10465/10465R/8240
+#EXTINF:-1,RD - TELEANTILLAS
+http://tv.nousiptv.com:8080/AR10465/10465R/8241
+#EXTINF:-1,RD - TELECENTRO
+http://tv.nousiptv.com:8080/AR10465/10465R/8244
+#EXTINF:-1,RD - TELEMICRO
+http://tv.nousiptv.com:8080/AR10465/10465R/8245
+#EXTINF:-1,RD - ANTENA LATINA
+http://tv.nousiptv.com:8080/AR10465/10465R/30079
+#EXTINF:-1,RD - TELEUNION
+http://tv.nousiptv.com:8080/AR10465/10465R/5468
+#EXTINF:-1,RD - TELEUNIVERSO
+http://tv.nousiptv.com:8080/AR10465/10465R/5473
+#EXTINF:-1,RD - TV Recuerdos Canal 56
+http://tv.nousiptv.com:8080/AR10465/10465R/1085945
+#EXTINF:-1,PERU - TV PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/54853
+#EXTINF:-1,PERU - ATV
+http://tv.nousiptv.com:8080/AR10465/10465R/8333
+#EXTINF:-1,PERU - ATV PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/7449
+#EXTINF:-1,PERU- LATINA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1087195
+#EXTINF:-1,PERU - LATINA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/56273
+#EXTINF:-1,PERU - PERU MAGICO
+http://tv.nousiptv.com:8080/AR10465/10465R/8323
+#EXTINF:-1,PERU- AMERICA TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1087194
+#EXTINF:-1,PERU - AMERICA TV SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1068850
+#EXTINF:-1,PERU - WILLAX TELEVISIÓN HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1085372
+#EXTINF:-1,PERU - CANAL N
+http://tv.nousiptv.com:8080/AR10465/10465R/7825
+#EXTINF:-1,PERU - CANAL N FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1169263
+#EXTINF:-1,PERU - PANAMERICANA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1169262
+#EXTINF:-1,PERU- WILLAX TELEVISIÓN SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1105664
+#EXTINF:-1,PERU - MOVISTAR DEPORTES FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1092642
+#EXTINF:-1,PERU - GOL PERU FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1123136
+#EXTINF:-1,PERU - GOL PERU SD
+http://tv.nousiptv.com:8080/AR10465/10465R/8329
+#EXTINF:-1,PERU - LIGA1
+http://tv.nousiptv.com:8080/AR10465/10465R/1151342
+#EXTINF:-1,PERU - LIGA 1 MAX
+http://tv.nousiptv.com:8080/AR10465/10465R/1151341
+#EXTINF:-1,PR-UNIVISION
+http://tv.nousiptv.com:8080/AR10465/10465R/43873
+#EXTINF:-1,PR-TELEMUNDO
+http://tv.nousiptv.com:8080/AR10465/10465R/43875
+#EXTINF:-1,PR-WAPA AMERICA
+http://tv.nousiptv.com:8080/AR10465/10465R/43871
+#EXTINF:-1,PR-WAPA
+http://tv.nousiptv.com:8080/AR10465/10465R/43870
+#EXTINF:-1,PR-MEGA TV
+http://tv.nousiptv.com:8080/AR10465/10465R/43872
+#EXTINF:-1,PR- NBC 
+http://tv.nousiptv.com:8080/AR10465/10465R/1066864
+#EXTINF:-1,PR- CANAL 13
+http://tv.nousiptv.com:8080/AR10465/10465R/1066865
+#EXTINF:-1,PR- WIPR
+http://tv.nousiptv.com:8080/AR10465/10465R/1087193
+#EXTINF:-1,CR - REPRETEL 4
+http://tv.nousiptv.com:8080/AR10465/10465R/8150
+#EXTINF:-1,CR - REPRETEL 6
+http://tv.nousiptv.com:8080/AR10465/10465R/8151
+#EXTINF:-1,CR - REPRETEL 11
+http://tv.nousiptv.com:8080/AR10465/10465R/8149
+#EXTINF:-1,CR - TELETICA 7
+http://tv.nousiptv.com:8080/AR10465/10465R/8148
+#EXTINF:-1,CR - ENLACE
+http://tv.nousiptv.com:8080/AR10465/10465R/51353
+#EXTINF:-1,CR - FUTV
+http://tv.nousiptv.com:8080/AR10465/10465R/47854
+#EXTINF:-1,CR - TIGO SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/18594
+#EXTINF:-1,CR - TIGO SPORTS 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1141967
+#EXTINF:-1,PAR - PARAGUAY TV
+http://tv.nousiptv.com:8080/AR10465/10465R/7423
+#EXTINF:-1,PAR - NOTICIAS PY
+http://tv.nousiptv.com:8080/AR10465/10465R/7428
+#EXTINF:-1,PAR - TELEFUTURO
+http://tv.nousiptv.com:8080/AR10465/10465R/7529
+#EXTINF:-1,PAR - UNICANAL
+http://tv.nousiptv.com:8080/AR10465/10465R/7434
+#EXTINF:-1,PAR - TVS
+http://tv.nousiptv.com:8080/AR10465/10465R/7429
+#EXTINF:-1,PAR - SNT
+http://tv.nousiptv.com:8080/AR10465/10465R/7425
+#EXTINF:-1,PAR - RPC
+http://tv.nousiptv.com:8080/AR10465/10465R/7426
+#EXTINF:-1,PAR - SUR TV
+http://tv.nousiptv.com:8080/AR10465/10465R/7447
+#EXTINF:-1,PAR - C9N
+http://tv.nousiptv.com:8080/AR10465/10465R/7437
+#EXTINF:-1,PAR - TIGO SPORTS + HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53029
+#EXTINF:-1,PAR - TIGO SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/7435
+#EXTINF:-1,PAR - TIGO SPORTS 2
+http://tv.nousiptv.com:8080/AR10465/10465R/7450
+#EXTINF:-1,PAR - FARRA PLAY
+http://tv.nousiptv.com:8080/AR10465/10465R/23221
+#EXTINF:-1,PAR - SNT
+http://tv.nousiptv.com:8080/AR10465/10465R/23222
+#EXTINF:-1,PAR - LA TELE
+http://tv.nousiptv.com:8080/AR10465/10465R/23224
+#EXTINF:-1,CA - TVA MONTREAL
+http://tv.nousiptv.com:8080/AR10465/10465R/1092271
+#EXTINF:-1,CA - TELE QUEBEC
+http://tv.nousiptv.com:8080/AR10465/10465R/1092274
+#EXTINF:-1,CA - CITY TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1092275
+#EXTINF:-1,CA - TV 5
+http://tv.nousiptv.com:8080/AR10465/10465R/1092277
+#EXTINF:-1,CA - Z TELE
+http://tv.nousiptv.com:8080/AR10465/10465R/1100900
+#EXTINF:-1,CA - HISTORY CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/1092278
+#EXTINF:-1,CA - CTV NEWS
+http://tv.nousiptv.com:8080/AR10465/10465R/1092272
+#EXTINF:-1,CA - MOI & CIE
+http://tv.nousiptv.com:8080/AR10465/10465R/1092273
+#EXTINF:-1,CA - ICI RADI
+http://tv.nousiptv.com:8080/AR10465/10465R/1092276
+#EXTINF:-1,CA - EVASION
+http://tv.nousiptv.com:8080/AR10465/10465R/1100899
+#EXTINF:-1,CA - RDS
+http://tv.nousiptv.com:8080/AR10465/10465R/1100901
+#EXTINF:-1,CA - LCN
+http://tv.nousiptv.com:8080/AR10465/10465R/1100902
+#EXTINF:-1,CA - TREE HOUSE
+http://tv.nousiptv.com:8080/AR10465/10465R/1100903
+#EXTINF:-1,CA - ZESTE
+http://tv.nousiptv.com:8080/AR10465/10465R/1100904
+#EXTINF:-1,CA - RDS Info
+http://tv.nousiptv.com:8080/AR10465/10465R/1105354
+#EXTINF:-1,CA - CP 24 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1092279
+#EXTINF:-1,CA - CP 24 SD
+http://tv.nousiptv.com:8080/AR10465/10465R/1092280
+#EXTINF:-1,CA - CANAL D
+http://tv.nousiptv.com:8080/AR10465/10465R/1100898
+#EXTINF:-1,CA - TVO
+http://tv.nousiptv.com:8080/AR10465/10465R/1092264
+#EXTINF:-1,CA - TSN 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1092265
+#EXTINF:-1,CA - TSN 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1092266
+#EXTINF:-1,CA - TSN 3
+http://tv.nousiptv.com:8080/AR10465/10465R/1092267
+#EXTINF:-1,CA - TSN 4
+http://tv.nousiptv.com:8080/AR10465/10465R/1092268
+#EXTINF:-1,CA - TSN 5
+http://tv.nousiptv.com:8080/AR10465/10465R/1092269
+#EXTINF:-1,CA - TVA SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/1092270
+#EXTINF:-1,CA - SPORTSNET ONE
+http://tv.nousiptv.com:8080/AR10465/10465R/1100905
+#EXTINF:-1,CA - SPORTSNET EAST
+http://tv.nousiptv.com:8080/AR10465/10465R/1105352
+#EXTINF:-1,CA - SPORTSNET 360 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1105353
+#EXTINF:-1,GUAT - GUATEVISION
+http://tv.nousiptv.com:8080/AR10465/10465R/51393
+#EXTINF:-1,GUAT - CANAL ANTIGUA
+http://tv.nousiptv.com:8080/AR10465/10465R/42021
+#EXTINF:-1,GUATE- AZTECA
+http://tv.nousiptv.com:8080/AR10465/10465R/28578
+#EXTINF:-1,GUAT - TV AZTECA
+http://tv.nousiptv.com:8080/AR10465/10465R/42016
+#EXTINF:-1,GUAT - CANAL 3
+http://tv.nousiptv.com:8080/AR10465/10465R/42017
+#EXTINF:-1,GUAT - CANAL 7
+http://tv.nousiptv.com:8080/AR10465/10465R/42019
+#EXTINF:-1,GUAT - CANAL 11
+http://tv.nousiptv.com:8080/AR10465/10465R/42020
+#EXTINF:-1,GUAT - CANAL 13
+http://tv.nousiptv.com:8080/AR10465/10465R/51392
+#EXTINF:-1,BOL - BOLIVIA TV
+http://tv.nousiptv.com:8080/AR10465/10465R/54732
+#EXTINF:-1,BOL -  BOLIVISION TV ⁽ᴴᴰ⁾
+http://tv.nousiptv.com:8080/AR10465/10465R/54733
+#EXTINF:-1,BOL - ATB
+http://tv.nousiptv.com:8080/AR10465/10465R/54730
+#EXTINF:-1,BOL - UNITEL
+http://tv.nousiptv.com:8080/AR10465/10465R/52619
+#EXTINF:-1,BOL - RTP
+http://tv.nousiptv.com:8080/AR10465/10465R/54734
+#EXTINF:-1,BOL - TIGO SPORTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/54735
+#EXTINF:-1,BOL - TIGO SPORTS 2
+http://tv.nousiptv.com:8080/AR10465/10465R/54736
+#EXTINF:-1,BOL - TIGO SPORTS 3
+http://tv.nousiptv.com:8080/AR10465/10465R/54737
+#EXTINF:-1,VEN - VENEZOLANA DE TELEVISION
+http://tv.nousiptv.com:8080/AR10465/10465R/18596
+#EXTINF:-1,VEN - VENEVISION
+http://tv.nousiptv.com:8080/AR10465/10465R/18595
+#EXTINF:-1,VEN - TELESUR
+http://tv.nousiptv.com:8080/AR10465/10465R/1161239
+#EXTINF:-1,VEN - VENEVISION PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/18593
+#EXTINF:-1,VEN - PROMAR SD
+http://tv.nousiptv.com:8080/AR10465/10465R/18599
+#EXTINF:-1,VEN - GLOBOVISION SD
+http://tv.nousiptv.com:8080/AR10465/10465R/18600
+#EXTINF:-1,VEN - VIVE
+http://tv.nousiptv.com:8080/AR10465/10465R/51410
+#EXTINF:-1,VEN - TELEVEN
+http://tv.nousiptv.com:8080/AR10465/10465R/51413
+#EXTINF:-1,VEN - TVES
+http://tv.nousiptv.com:8080/AR10465/10465R/18597
+#EXTINF:-1,VEN - VIVO 
+http://tv.nousiptv.com:8080/AR10465/10465R/18598
+#EXTINF:-1,VEN - VALE TV
+http://tv.nousiptv.com:8080/AR10465/10465R/51409
+#EXTINF:-1,VEN - MERIDIANO
+http://tv.nousiptv.com:8080/AR10465/10465R/51411
+#EXTINF:-1,VEN - TLT
+http://tv.nousiptv.com:8080/AR10465/10465R/51414
+#EXTINF:-1,VEN - VIVO PLAY 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156971
+#EXTINF:-1,SAL - WOW TV
+http://tv.nousiptv.com:8080/AR10465/10465R/5478
+#EXTINF:-1,SAL - CANAL 4
+http://tv.nousiptv.com:8080/AR10465/10465R/51402
+#EXTINF:-1,SAL - CANAL 2
+http://tv.nousiptv.com:8080/AR10465/10465R/51400
+#EXTINF:-1,SAL - CANAL 6
+http://tv.nousiptv.com:8080/AR10465/10465R/51401
+#EXTINF:-1,SAL - CANAL 12
+http://tv.nousiptv.com:8080/AR10465/10465R/51399
+#EXTINF:-1,SAL - CANAL 21
+http://tv.nousiptv.com:8080/AR10465/10465R/51397
+#EXTINF:-1,SAL - CANAL 19
+http://tv.nousiptv.com:8080/AR10465/10465R/51396
+#EXTINF:-1,SAL - VTV CANAL 35
+http://tv.nousiptv.com:8080/AR10465/10465R/51403
+#EXTINF:-1,CUBA - CUBAVISION INTERNACIONAL
+http://tv.nousiptv.com:8080/AR10465/10465R/9842
+#EXTINF:-1,CUBA - CUBAVISION
+http://tv.nousiptv.com:8080/AR10465/10465R/9841
+#EXTINF:-1,CUBA - TELEREBELDE
+http://tv.nousiptv.com:8080/AR10465/10465R/9843
+#EXTINF:-1,HON - GLOBO TV
+http://tv.nousiptv.com:8080/AR10465/10465R/28576
+#EXTINF:-1,HON - TELECANDENA
+http://tv.nousiptv.com:8080/AR10465/10465R/51385
+#EXTINF:-1,HON - TELESISTEMA
+http://tv.nousiptv.com:8080/AR10465/10465R/51386
+#EXTINF:-1,HON - CANAL 5
+http://tv.nousiptv.com:8080/AR10465/10465R/28571
+#EXTINF:-1,HON - TEN CANAL 10
+http://tv.nousiptv.com:8080/AR10465/10465R/28569
+#EXTINF:-1,HON - CANAL 11
+http://tv.nousiptv.com:8080/AR10465/10465R/16721
+#EXTINF:-1,HON - UNE TV
+http://tv.nousiptv.com:8080/AR10465/10465R/51388
+#EXTINF:-1,HON - TELECEIBA
+http://tv.nousiptv.com:8080/AR10465/10465R/28570
+#EXTINF:-1,HON - HCH
+http://tv.nousiptv.com:8080/AR10465/10465R/28572
+#EXTINF:-1,HON - CHTV
+http://tv.nousiptv.com:8080/AR10465/10465R/51389
+#EXTINF:-1,HON - SITV
+http://tv.nousiptv.com:8080/AR10465/10465R/16720
+#EXTINF:-1,HON - TSI
+http://tv.nousiptv.com:8080/AR10465/10465R/28573
+#EXTINF:-1,HON - CAMPUS TV
+http://tv.nousiptv.com:8080/AR10465/10465R/28575
+#EXTINF:-1,HON - VTV
+http://tv.nousiptv.com:8080/AR10465/10465R/28577
+#EXTINF:-1,HON - TIGO SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/51390
+#EXTINF:-1,ES - #0 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156036
+#EXTINF:-1,ES - MEGA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156019
+#EXTINF:-1,ES - ANTENA 3
+http://tv.nousiptv.com:8080/AR10465/10465R/35494
+#EXTINF:-1,ES - ANTENA 3 INT.
+http://tv.nousiptv.com:8080/AR10465/10465R/4108
+#EXTINF:-1,ES - A3 INTERNACIONAL FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156011
+#EXTINF:-1,ES - A3 SERIES INT.
+http://tv.nousiptv.com:8080/AR10465/10465R/3961
+#EXTINF:-1,ES - A3 SERIES
+http://tv.nousiptv.com:8080/AR10465/10465R/35495
+#EXTINF:-1,ES - LA 1 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53894
+#EXTINF:-1,ES - LA 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1156030
+#EXTINF:-1,ES - LA CUATRO
+http://tv.nousiptv.com:8080/AR10465/10465R/17191
+#EXTINF:-1,ES - TELECINCO HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156017
+#EXTINF:-1,ES - LA SEXTA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156020
+#EXTINF:-1,ESP - TVE
+http://tv.nousiptv.com:8080/AR10465/10465R/32620
+#EXTINF:-1,ES - TV GALICIA
+http://tv.nousiptv.com:8080/AR10465/10465R/54155
+#EXTINF:-1,ES - 24 HORAS
+http://tv.nousiptv.com:8080/AR10465/10465R/1074082
+#EXTINF:-1,ES - TELEMADRID
+http://tv.nousiptv.com:8080/AR10465/10465R/1074083
+#EXTINF:-1,ESP -  TCM FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4106
+#EXTINF:-1,ES - CLAN
+http://tv.nousiptv.com:8080/AR10465/10465R/4131
+#EXTINF:-1,ES - CALLE 13 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/17192
+#EXTINF:-1,ESP - BE MAD
+http://tv.nousiptv.com:8080/AR10465/10465R/32619
+#EXTINF:-1,ESP - CANAL EITB.EUS
+http://tv.nousiptv.com:8080/AR10465/10465R/1139099
+#EXTINF:-1,ES - ANDALUCIA TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1156016
+#EXTINF:-1,ES - TCM HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156018
+#EXTINF:-1,ES - HISTORIA HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156022
+#EXTINF:-1,ES - IBERALIA TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1156023
+#EXTINF:-1,ES - VIAJAR TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1156024
+#EXTINF:-1,ES - PANDA ODISEA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156028
+#EXTINF:-1,ES - NEOX
+http://tv.nousiptv.com:8080/AR10465/10465R/1156029
+#EXTINF:-1,ES - DIVINITY
+http://tv.nousiptv.com:8080/AR10465/10465R/1156031
+#EXTINF:-1,ES - CLAN TVE
+http://tv.nousiptv.com:8080/AR10465/10465R/1156032
+#EXTINF:-1,ES - CANAL COCINA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156034
+#EXTINF:-1,ES - BOING
+http://tv.nousiptv.com:8080/AR10465/10465R/1156035
+#EXTINF:-1,ES - ENERGY
+http://tv.nousiptv.com:8080/AR10465/10465R/1156037
+#EXTINF:-1,ES - NOVA 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156038
+#EXTINF:-1,ES - BABY TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1156043
+#EXTINF:-1,ES - FDF 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156214
+#EXTINF:-1,ES - COSMO
+http://tv.nousiptv.com:8080/AR10465/10465R/4177
+#EXTINF:-1,ES - COMEDY CENTRAL
+http://tv.nousiptv.com:8080/AR10465/10465R/1156042
+#EXTINF:-1,ES - TNT
+http://tv.nousiptv.com:8080/AR10465/10465R/1156015
+#EXTINF:-1,ES - FOX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/47695
+#EXTINF:-1,ES - FOX HD
+http://tv.nousiptv.com:8080/AR10465/10465R/47696
+#EXTINF:-1,ES - FOX LIFE
+http://tv.nousiptv.com:8080/AR10465/10465R/1156044
+#EXTINF:-1,ES - HOLLYWOOD HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156021
+#EXTINF:-1,ES - MOVISTAR CINE Ñ
+http://tv.nousiptv.com:8080/AR10465/10465R/6026
+#EXTINF:-1,ES - MOVISTAR ESTRENOS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156025
+#EXTINF:-1,ES - MOVISTAR SERIES
+http://tv.nousiptv.com:8080/AR10465/10465R/6027
+#EXTINF:-1,ES  - MOVISTAR COMEDIA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156026
+#EXTINF:-1,ES - MOVISTAR ACCION
+http://tv.nousiptv.com:8080/AR10465/10465R/1156027
+#EXTINF:-1,ES - TAQUILLA 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1156039
+#EXTINF:-1,ES - TAQUILLA 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1156040
+#EXTINF:-1,ES - TAQUILLA 3
+http://tv.nousiptv.com:8080/AR10465/10465R/1156041
+#EXTINF:-1,ES - TOROS 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156127
+#EXTINF:-1,ES - DECASA
+http://tv.nousiptv.com:8080/AR10465/10465R/1158754
+#EXTINF:-1,ES - CAZA Y PESCA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156033
+#EXTINF:-1,ESP D  - BEIN SPORTS LA LIGA
+http://tv.nousiptv.com:8080/AR10465/10465R/1156047
+#EXTINF:-1,ESP D - Eurosport 1
+http://tv.nousiptv.com:8080/AR10465/10465R/41816
+#EXTINF:-1,ESP D - Eurosport  2
+http://tv.nousiptv.com:8080/AR10465/10465R/51352
+#EXTINF:-1,ESP D - DAZN 1
+http://tv.nousiptv.com:8080/AR10465/10465R/4178
+#EXTINF:-1,ESP D  - DAZN 1 
+http://tv.nousiptv.com:8080/AR10465/10465R/53380
+#EXTINF:-1,ESP D - DAZN 2
+http://tv.nousiptv.com:8080/AR10465/10465R/34608
+#EXTINF:-1,ESP D - DAZN 3
+http://tv.nousiptv.com:8080/AR10465/10465R/1089977
+#EXTINF:-1,ESP D  - DAZN F1 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1143419
+#EXTINF:-1,ESP D - MOVISTAR F1 FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/53028
+#EXTINF:-1,ESP D  - MOVISTAR F1 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156055
+#EXTINF:-1,ESP D - MOVISTAR  #VAMOS
+http://tv.nousiptv.com:8080/AR10465/10465R/51453
+#EXTINF:-1,ESP D  - VAMOS +
+http://tv.nousiptv.com:8080/AR10465/10465R/1156050
+#EXTINF:-1,ESP D - MOVISTAR LA LIGA 1
+http://tv.nousiptv.com:8080/AR10465/10465R/32365
+#EXTINF:-1,ESP D - LIGA DE CAMPEONES  FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/16717
+#EXTINF:-1,ESP D  - LIGA DE CAMPEONES
+http://tv.nousiptv.com:8080/AR10465/10465R/1156049
+#EXTINF:-1,ESP D  - MOVISTAR LA LIGA FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/1115758
+#EXTINF:-1,ESP D  - MOVISTAR DEPORTES 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1156051
+#EXTINF:-1,ESP D  - MOVISTAR DEPORTES 2 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1090600
+#EXTINF:-1,ESP D  - LA LIGA TV BAR FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/51343
+#EXTINF:-1,ESP D  - BARCA TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1156046
+#EXTINF:-1,ESP D  - BAR TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1156045
+#EXTINF:-1,ESP D  - REAL MADRID TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1156054
+#EXTINF:-1,ESP D  - GOL TV
+http://tv.nousiptv.com:8080/AR10465/10465R/1156048
+#EXTINF:-1,ESP D  - TELEDEPORTE
+http://tv.nousiptv.com:8080/AR10465/10465R/1156053
+#EXTINF:-1,ESP D  - MOVISTAR GOLF
+http://tv.nousiptv.com:8080/AR10465/10465R/1156052
+#EXTINF:-1,US.SP - TENNIS CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/3791
+#EXTINF:-1,US.SP - NBC GOLF CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/17602
+#EXTINF:-1,US.SP - PAC 12 ARIZONA
+http://tv.nousiptv.com:8080/AR10465/10465R/3799
+#EXTINF:-1,US.SP - GAME SHOW NETWORK
+http://tv.nousiptv.com:8080/AR10465/10465R/17419
+#EXTINF:-1,US.SP - NBC SN
+http://tv.nousiptv.com:8080/AR10465/10465R/53905
+#EXTINF:-1,US.SP - NBC SPORTS
+http://tv.nousiptv.com:8080/AR10465/10465R/1085950
+#EXTINF:-1,US.SP - NBC SPORTS NETWORK
+http://tv.nousiptv.com:8080/AR10465/10465R/53292
+#EXTINF:-1,US.SP - CW NETWORK
+http://tv.nousiptv.com:8080/AR10465/10465R/1069953
+#EXTINF:-1,US.SP - ESPN U
+http://tv.nousiptv.com:8080/AR10465/10465R/34602
+#EXTINF:-1,US.SP - ESPN 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1163327
+#EXTINF:-1,US.SP - ESPN 3 
+http://tv.nousiptv.com:8080/AR10465/10465R/1163328
+#EXTINF:-1,US.SP - ESPN PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/1163329
+#EXTINF:-1,US.SP - YES NETWORK
+http://tv.nousiptv.com:8080/AR10465/10465R/1089615
+#EXTINF:-1,US.SP - TBS east
+http://tv.nousiptv.com:8080/AR10465/10465R/17891
+#EXTINF:-1,US.SP - AT&T SportsNet Pittsburgh
+http://tv.nousiptv.com:8080/AR10465/10465R/1085951
+#EXTINF:-1,US.SP - UFC FIGHT PASS
+http://tv.nousiptv.com:8080/AR10465/10465R/53373
+#EXTINF:-1,US.SP - UFC TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/53374
+#EXTINF:-1,US SP - MSG HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1117138
+#EXTINF:-1,US.SP - MSG 2 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1117139
+#EXTINF:-1,US.SP - MSG+ HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1117140
+#EXTINF:-1,US.SP - BYN SPORTS USA
+http://tv.nousiptv.com:8080/AR10465/10465R/29341
+#EXTINF:-1,US.SP - FUBO SPORTS NETWORK
+http://tv.nousiptv.com:8080/AR10465/10465R/54579
+#EXTINF:-1,US.SP - FOX SPORTS 1 HD
+http://tv.nousiptv.com:8080/AR10465/10465R/17418
+#EXTINF:-1,US.SP - FOX SPORTS 2
+http://tv.nousiptv.com:8080/AR10465/10465R/53621
+#EXTINF:-1,US.SP - FOX SPORTS SUN
+http://tv.nousiptv.com:8080/AR10465/10465R/1118207
+#EXTINF:-1,US.SP - FOX SOCCER PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/1156758
+#EXTINF:-1,US.SP - NBC SPORTS CALIFORNIA 
+http://tv.nousiptv.com:8080/AR10465/10465R/1158640
+#EXTINF:-1,MUS - MTV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4083
+#EXTINF:-1,MUS - MTV LIVE FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/4096
+#EXTINF:-1,MUS - MTV LIVE 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156058
+#EXTINF:-1,MUS - MTV 00s HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1167670
+#EXTINF:-1,MUS - MTV HITS
+http://tv.nousiptv.com:8080/AR10465/10465R/1156057
+#EXTINF:-1,MUS - TELEHIT URBANO
+http://tv.nousiptv.com:8080/AR10465/10465R/3960
+#EXTINF:-1,MUS - HTV
+http://tv.nousiptv.com:8080/AR10465/10465R/51395
+#EXTINF:-1,MUS - VH1 CLASSIC
+http://tv.nousiptv.com:8080/AR10465/10465R/4133
+#EXTINF:-1,MUS - MUCH MUSIC
+http://tv.nousiptv.com:8080/AR10465/10465R/1156059
+#EXTINF:-1,MUS -  LATINA
+http://tv.nousiptv.com:8080/AR10465/10465R/1116300
+#EXTINF:-1,MUS - MUSIC TOP
+http://tv.nousiptv.com:8080/AR10465/10465R/1156060
+#EXTINF:-1,MUS - BANDAMAX 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156056
+#EXTINF:-1,MUS - CONCERT CHANNEL
+http://tv.nousiptv.com:8080/AR10465/10465R/23236
+#EXTINF:-1,MUS - Telehit  PLUS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1167671
+#EXTINF:-1,MUS -STINGRAY CONCERTS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1167672
+#EXTINF:-1,MUS - M6 MUSIC
+http://tv.nousiptv.com:8080/AR10465/10465R/7823
+#EXTINF:-1,MUS - 24/7 RETRO PLUS
+http://tv.nousiptv.com:8080/AR10465/10465R/1116297
+#EXTINF:-1,MUS - 24/7 ZAPPING MUSIC
+http://tv.nousiptv.com:8080/AR10465/10465R/1116298
+#EXTINF:-1,24/7 - CANTINFLAS
+http://tv.nousiptv.com:8080/AR10465/10465R/1144258
+#EXTINF:-1,24/7 EL CHAVO DEL OCHO
+http://tv.nousiptv.com:8080/AR10465/10465R/18576
+#EXTINF:-1,24/7 - LOS SIMPSON HD
+http://tv.nousiptv.com:8080/AR10465/10465R/29412
+#EXTINF:-1,24/7 - TOM Y JERRY
+http://tv.nousiptv.com:8080/AR10465/10465R/46490
+#EXTINF:-1,24/7 - GARFIELD
+http://tv.nousiptv.com:8080/AR10465/10465R/18577
+#EXTINF:-1,24/7 - DRAGON BALL SUPER
+http://tv.nousiptv.com:8080/AR10465/10465R/29406
+#EXTINF:-1,24/7 - FUTURAMA
+http://tv.nousiptv.com:8080/AR10465/10465R/29407
+#EXTINF:-1,24/7 - LOONEY TUNES
+http://tv.nousiptv.com:8080/AR10465/10465R/29409
+#EXTINF:-1,24/7 - DRAGON BALL GT
+http://tv.nousiptv.com:8080/AR10465/10465R/44344
+#EXTINF:-1,24/7 - ALF
+http://tv.nousiptv.com:8080/AR10465/10465R/44721
+#EXTINF:-1,24/7 - QUE HAY DE NUEVO SCOOBY DOO
+http://tv.nousiptv.com:8080/AR10465/10465R/44723
+#EXTINF:-1,24/7 - MALCOM
+http://tv.nousiptv.com:8080/AR10465/10465R/44818
+#EXTINF:-1,24/7 - THE BIG BANG THEORY
+http://tv.nousiptv.com:8080/AR10465/10465R/46491
+#EXTINF:-1,24/7 - LA VACA Y EL POLLITO
+http://tv.nousiptv.com:8080/AR10465/10465R/1140316
+#EXTINF:-1,24/7 - LOS PICAPIEDRAS
+http://tv.nousiptv.com:8080/AR10465/10465R/1141388
+#EXTINF:-1,24/7 - TWO AND A HALF MEN
+http://tv.nousiptv.com:8080/AR10465/10465R/1147194
+#EXTINF:-1,FR - FRANCE 24
+http://tv.nousiptv.com:8080/AR10465/10465R/33357
+#EXTINF:-1,FR -  LIGUE 1 FRANCIA  HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1142543
+#EXTINF:-1,ITA -  SKY SPORT SERIE A 
+http://tv.nousiptv.com:8080/AR10465/10465R/1156973
+#EXTINF:-1,EUR-EURONEWS
+http://tv.nousiptv.com:8080/AR10465/10465R/1072128
+#EXTINF:-1,EUR-EUROSPORT 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1072129
+#EXTINF:-1,NBA - NBA TV FHD
+http://tv.nousiptv.com:8080/AR10465/10465R/3964
+#EXTINF:-1,NBA - NBA TV HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1117721
+#EXTINF:-1,NBA - NBA 1
+http://tv.nousiptv.com:8080/AR10465/10465R/1141298
+#EXTINF:-1,NBA - NBA 2
+http://tv.nousiptv.com:8080/AR10465/10465R/1141299
+#EXTINF:-1,NBA - NBA 3
+http://tv.nousiptv.com:8080/AR10465/10465R/1141300
+#EXTINF:-1,NBA - NBA 4
+http://tv.nousiptv.com:8080/AR10465/10465R/1141301
+#EXTINF:-1,NBA - NBA 5
+http://tv.nousiptv.com:8080/AR10465/10465R/1141302
+#EXTINF:-1,NBA - NBA 6
+http://tv.nousiptv.com:8080/AR10465/10465R/1141303
+#EXTINF:-1,NBA - NBA 7
+http://tv.nousiptv.com:8080/AR10465/10465R/1141304
+#EXTINF:-1,NBA - NBA 8
+http://tv.nousiptv.com:8080/AR10465/10465R/1141305
+#EXTINF:-1,NBA - NBA 9
+http://tv.nousiptv.com:8080/AR10465/10465R/1141306
+#EXTINF:-1,NBA - NBA 10
+http://tv.nousiptv.com:8080/AR10465/10465R/1141307
+#EXTINF:-1,CHILE - MEGA PLUS HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1167424
+#EXTINF:-1,ENT - Kanal D Drama HD
+http://tv.nousiptv.com:8080/AR10465/10465R/1167673
+#EXTINF:-1,RADIO - EMISORAS UNIDAS 89.7 - GT
+http://tv.nousiptv.com:8080/AR10465/10465R/29066
+#EXTINF:-1,RADIO - TROPICALIDA 104.9  - GT
+http://tv.nousiptv.com:8080/AR10465/10465R/29068
+#EXTINF:-1,RADIO - XTREMA 101.3 FM - GT
+http://tv.nousiptv.com:8080/AR10465/10465R/29069
+#EXTINF:-1,RADIO - LA RED 106.1 FM - GT
+http://tv.nousiptv.com:8080/AR10465/10465R/29070
+#EXTINF:-1,RADIO - RADIO 1010 - UY
+http://tv.nousiptv.com:8080/AR10465/10465R/29067
