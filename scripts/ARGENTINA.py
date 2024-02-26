@@ -6,7 +6,7 @@ banner1 = r'''
 #                                  >> https://github.com/cqcbrasil        #
 ###########################################################################
 #EXTM3U
-
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
 #EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (Av. 3 y 104)
 http://cam104y3.gesell.com.ar/playlist.m3u8
