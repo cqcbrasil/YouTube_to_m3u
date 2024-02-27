@@ -6,12 +6,44 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (Av. 3 y 104)
-http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (Buenos Aires y Playa)
-http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
-http://camlapinocha.gesell.com.ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/566f84e9d53284f95ca4c92dddd7ca24.png" group-title="(TV) CHILE", CL | CANAL 13 SD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55270
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/566f84e9d53284f95ca4c92dddd7ca24.png" group-title="(TV) CHILE", CL | CANAL 13. C
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55271
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/60ed6e9b26f65f6614e34a0e76568174.png" group-title="(TV) CHILE", CL | CHILEVISION HD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55272
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/60ed6e9b26f65f6614e34a0e76568174.png" group-title="(TV) CHILE", CL | CHILEVISION SD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55273
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/60ed6e9b26f65f6614e34a0e76568174.png" group-title="(TV) CHILE", CL | CHILEVISION FHD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55274
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/113266a271908178e56d5f2062d5a66b.png" group-title="(TV) CHILE", CL | MEGA HD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55275
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/113266a271908178e56d5f2062d5a66b.png" group-title="(TV) CHILE", CL | MEGA SD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55276
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/113266a271908178e56d5f2062d5a66b.png" group-title="(TV) CHILE", CL | MEGA FHD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55277
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/5815d7c93f7904b1c025c5e2b8f9ae29.png" group-title="(TV) CHILE", CL | TVN. HD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55278
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/5815d7c93f7904b1c025c5e2b8f9ae29.png" group-title="(TV) CHILE", CL | TVN  SD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55279
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/763b1e6500acf964563dbcbb550fae99.png" group-title="(TV) CHILE", CL |  ETC TV
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55280
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/daaa949e119798859ec1345404e1450e.png" group-title="(TV) CHILE", CL | LA RED HD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55281
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/daaa949e119798859ec1345404e1450e.png" group-title="(TV) CHILE", CL | LA RED SD
+http://rasaiptv.com:8080/AlexRivera/tNcNm6avPBLQ/55282
 
 
 
