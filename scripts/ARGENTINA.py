@@ -107,7 +107,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="Argentina", CANAL 13 33.1 
-https://bvsat02.cdn.rcs.net.ar/mnp/el13/output.mpd
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
