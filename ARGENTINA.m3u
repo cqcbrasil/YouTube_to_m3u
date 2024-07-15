@@ -1,9 +1,27 @@
 ﻿#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-###########################################################################
-#                                  >> https://github.com/cqcbrasil        #
-###########################################################################
+
+######################################################################
+######################################################################
+
 #EXTM3U
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV Pública
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721060516/ei/RPiUZvX7EcSKkucPvt-P4Ag/ip/40.67.141.248/id/SSOu9--hImg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsndk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/NO7bASoA1i6HOOlT_QZo2NenAQqCzkemiz2vz8qb6OU5VjndrL0Do-H6UE6-Q38/vprv/1/playlist_type/LIVE/mh/S4/mm/44/mn/sn-p5qlsndk/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/mt/1721038562/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRQIgcUAzw_1mE3WMOX9E-SyNyiMTOyOLsq4GnVZbZiZsdM8CIQCvRfER8xPvAHsDdZI2xexfz3v_pzEKej-QDFjlIPRN7g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAJcHIgQxR3OvOyZ4Fq7MKSRE0Egb3ZAQelgsxO6ap7lQAiEA4RinSfRFwQr13ol-cdfxKsj3-QrrRfiITVcah-bjQRo%3D/playlist/index.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisión Pública 2
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721060517/ei/RfiUZqLhAbCEkucPoPSy0Ao/ip/40.67.141.248/id/SSOu9--hImg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-4h.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/NO7bAWvncWbLdberoerQSBYgdunbP0xN8n8PG73UatRito1T7Qd1CytvU8Q_w0A/vprv/1/playlist_type/LIVE/mh/S4/mm/44/mn/sn-4h/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/mt/1721038562/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIS0zWhkCfEOHfYktMm_7YuO5-47cVgslFnLp7pBd-JEAiB2vTDuGi3oHzWbrD5yQBJ_xIvf_gbNeB29cTw_h_B9Ew%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgWEeB8xDaigmjor46GdzFlfzaueRptTEp_dgcdyGtyGMCIQCHS8s3NCaK_34hxGMcNY2a3a6bkfMmMpjK4l-htm-UAQ%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQylk1Pg1iz872BeKPel5iEkdEGbXFV4-_c2x0n=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 12 Televisión Pública Regional
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721060517/ei/RfiUZo75KMK3kucPuYeSyA4/ip/40.67.141.248/id/V05Pb4RChpI.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAbawefG6agTu472MW4rJSEANnu6WKcaZUWQVSbJZ7wXPi_ZsbZQNitphbMU/vprv/1/playlist_type/DVR/mh/S_/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1721038562/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKbak76KDguRfLQXl2-ztklmdRUMQU2nBU2is85wWiUVAiEAxe82kJJYoWAJqT0aRWdrn2jp4qUrbCA77FZthc1OAMo%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgZ_lQ-RyerzaA73Vea1BsGGWzni_JWUk7gptUWq_tK0ICIQCmh9t0gepCVsbfEnPynMsWNwH1K28wi88_xmRQwOuiJg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+
+#EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
+
+#EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", 24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
 #EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (Av. 3 y 104)
