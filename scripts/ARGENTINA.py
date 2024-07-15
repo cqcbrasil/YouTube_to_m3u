@@ -1,6 +1,3 @@
-#EXTM3U
-
-
 #! /usr/bin/python3
 
 banner1 = r'''
