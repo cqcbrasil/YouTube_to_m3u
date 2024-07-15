@@ -1,3 +1,6 @@
+!pip install yt-dlp
+!yt-dlp -g https://archive.org/details/CCTV1_20240715_064700_7
+
 #! /usr/bin/python3
 
 banner1 = r'''
