@@ -12,6 +12,24 @@ banner = r'''
 #                                  >> https://github.com/cqcbrasil        #
 ###########################################################################
 
+#EXTINF:-1  group-title="N/A",CNN en Espa\u00f1ol
+http://blackaddon.com/play/pl-228.php?c=136&f=.m3u8
+#EXTINF:-1  group-title="N/A",CNN Internacional
+http://190.92.95.37:8000/play/a0ei/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1  group-title="N/A",CNNE
+http://190.92.95.37:8000/play/a0g2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1  group-title="N/A",CNNE
+http://clubtv.link/m03/lista2.php?c=a00x&f=.m3u8
+#EXTINF:-1  group-title="N/A",CANAL 13
+http://45.160.73.129:8888/play/a04x/index.m3u8
+#EXTINF:-1  group-title="N/A",CHV
+http://45.160.73.129:8888/play/a04w/index.m3u8
+#EXTINF:-1  group-title="N/A",CNN Chile
+http://45.160.73.129:8888/play/a01r/index.m3u8
+#EXTINF:-1  group-title="N/A",CNN Espanol
+http://45.160.73.129:8888/play/a056/index.m3u8
+#EXTINF:-1  group-title="CNN's",CNN Chile
+http://45.189.108.58:10000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="NOTICIAS",CNN en Espanol | Estados Unidos
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
 #EXTINF:-1 tvg-id="CNN CL" tvg-name="CNN Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_chile.png" group-title="NOTICIAS",CNN | Chile
