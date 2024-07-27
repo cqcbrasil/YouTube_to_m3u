@@ -12,6 +12,11 @@ banner = r'''
 #                                  >> https://github.com/cqcbrasil        #
 ###########################################################################
 
+#EXTINF:-1 tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="NOTICIAS",CNN en Espanol | Estados Unidos
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
+#EXTINF:-1 tvg-id="CNN CL" tvg-name="CNN Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_chile.png" group-title="NOTICIAS",CNN | Chile
+https://m3u-editor.com/serve/320183542-iptv/368981798
+
 #EXTINF:-1,  tvg-name="TVN"  tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo-thmb.png" group-title="CHILE",TVN (CHILE)
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/156187
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="CHILE",TVN (VPN) ACHO
