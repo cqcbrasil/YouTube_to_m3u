@@ -14,6 +14,21 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Locales",Camaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="cine-argentino.ar" tvg-name="CINE ARGENTINO" tvg-logo="http://yourlogourl.com/cine-argentino.png" group-title="Argentina",CINE ARGENTINO
+http://cord-cutter.net:8080/live/j3McKd/673709/164871.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="garage-tv-hd.ar" tvg-name="GARAGE TV HD" tvg-logo="http://yourlogourl.com/garage-tv-hd.png" group-title="Argentina",GARAGE TV HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164880.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Argentina", CANAL DE LA CIUDAD
@@ -62,6 +77,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="Argentina",America 24 | Argentina
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-id="america-tv-hd.ar" tvg-name="AMERICA TV HD" tvg-logo="http://yourlogourl.com/america-tv-hd.png" group-title="Argentina",AMERICA TV HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164881.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-9/206638151_10223169123710059_3666810289391430657_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=825194&_nc_eui2=AeGxugJ54qa7RhgKBnLTrHOu14OonvQq8lrXg6ie9CryWkCQzaYyrufVmZGkiprZVM0&_nc_ohc=dbLCQPiMFxEAX9X0jrT&_nc_ht=scontent.fepa11-1.fna&oh=afeef92e5377cb7720df7b2f4afc60c8&oe=6127F95F" group-title="Argentina",SSIPTV ARG TV - TDA 6.2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee7000c&userId=&serverSideAds=true
@@ -140,7 +158,8 @@ https://bvsat02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="Argentina", CANAL 9  35.1 
 http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210850
 
-
+#EXTINF:-1 tvg-id="el-nueve-hd.ar" tvg-name="EL NUEVE HD" tvg-logo="http://yourlogourl.com/el-nueve-hd.png" group-title="Argentina",EL NUEVE HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164869.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="Argentina",CANAL 4 TELEAIRE SAN MARTIN - TDA 21.1
@@ -156,6 +175,9 @@ http://168.197.196.98:9981/stream/channelid/1899762131?profile=pass
 
 #EXTINF:-1 tvg-name="Cronica TV" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="Argentina",Cronica TV | Argentina - TDA 22.1
 http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184396
+
+#EXTINF:-1 tvg-id="cronica-hd.ar" tvg-name="CRONICA HD" tvg-logo="http://yourlogourl.com/cronica-hd.png" group-title="Argentina",CRONICA HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164875.m3u8
 
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="Argentina", CRONICA HD 
@@ -179,6 +201,8 @@ http://190.11.130.46/mnp/encuentro/output.mpd
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png" group-title="Argentina", ENCUENTRO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png" group-title="Argentina", ENCUENTRO
+http://cord-cutter.net:8080/live/j3McKd/673709/164878.m3u8
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/41CYHm1/La-Naci-n.png",LA NACION
 http://45.5.151.151:8000/play/a0e2/index.m3u8
@@ -195,17 +219,26 @@ http://190.11.130.46/mnp/ip/output.mpd
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Argentina", IP NOTICIAS
 http://190.11.130.46/mnp/ip/output.mpd
 
+#EXTINF:-1 tvg-id="informacion-periodistica-hd.ar" tvg-name="INFORMACION PERIODISTICA HD" tvg-logo="http://yourlogourl.com/informacion-periodistica-hd.png" group-title="Argentina",INFORMACION PERIODISTICA HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164879.m3u8
+
 #EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQ4CbRDh4Wgxt0o_pw9V-kw9Vz6T0Re2Q_RD62jp7cZMO0uWvSKSUN6sZ2vjYcbn5fAs&usqp=CAU" group-title="Argentina",IP | Argentina - TDA 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
 #EXTINF:-1 tvg-name="TN" tvg-id="NTN24" tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="Argentina",TN Todo Noticias - TDA 20.1
 http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184400
 
+#EXTINF:-1 tvg-id="tn-noticias.ar" tvg-name="TN NOTICIAS" tvg-logo="http://yourlogourl.com/tn-noticias.png" group-title="Argentina",TN NOTICIAS
+http://cord-cutter.net:8080/live/j3McKd/673709/164873.m3u8
+
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" group-title="Argentina",UNIFE 25.1 - TDA 25.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1694000298&e=1694000418&h=39bea3dca2e5ba6c6e0fcda0b14067b8
 
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="Argentina",C5N | Argentina - TDA 26.1
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-id="c5n-hd.ar" tvg-name="C5N HD" tvg-logo="http://yourlogourl.com/c5n-hd.png" group-title="Argentina",C5N HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164876.m3u8
 
 #EXTINF:-1 tvg-id="A24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="Argentina",America 24 | Argentina - TDA 27.1
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
