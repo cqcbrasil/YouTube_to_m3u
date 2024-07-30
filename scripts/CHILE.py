@@ -18,6 +18,19 @@ http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/57269
 #EXTINF:0 player-buffer="30" tvg-logo="https://i.ibb.co/QP2CjJG/CNN-Chile.png" group-title="CHILE",CNN Chile
 http://fortv.cc:8080/DeishouV2573/120712/164892
 
+
+#EXTINF:-1 tvg-id="mega-hd.cl" tvg-name="MEGA HD" tvg-logo="http://yourlogourl.com/mega-hd.png" group-title="CHILE",MEGA HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164883.m3u8
+#EXTINF:-1 tvg-id="chilevision-hd.cl" tvg-name="CHILEVISION HD" tvg-logo="http://yourlogourl.com/chilevision-hd.png" group-title="CHILE",CHILEVISION HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164884.m3u8
+#EXTINF:-1 tvg-id="13i.cl" tvg-name="13I" tvg-logo="http://yourlogourl.com/13i.png" group-title="CHILE",13I
+http://cord-cutter.net:8080/live/j3McKd/673709/164885.m3u8
+#EXTINF:-1 tvg-id="tvn-chile-hd.cl" tvg-name="TVN CHILE HD" tvg-logo="http://yourlogourl.com/tvn-chile-hd.png" group-title="CHILE",TVN CHILE HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164888.m3u8
+#EXTINF:-1 tvg-id="cnn-chile-hd.cl" tvg-name="CNN CHILE HD" tvg-logo="http://yourlogourl.com/cnn-chile-hd.png" group-title="CHILE",CNN CHILE HD
+http://cord-cutter.net:8080/live/j3McKd/673709/164892.m3u8
+
+
 #EXTINF:-1,  tvg-name="TVN"  tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo-thmb.png" group-title="CHILE",TVN (CHILE)
 https://streamer01.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/TVNCHILE/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="Tvn" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/tvn.jpg" group-title="CHILE",TVN (VPN) ACHO
