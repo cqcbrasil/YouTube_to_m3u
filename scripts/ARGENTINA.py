@@ -150,6 +150,9 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 https://g5.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8|Referer=https://vmf.edge-apps.net
 
 #EXTINF:-1 tvg-name="Cronica TV" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="Argentina",Cronica TV | Argentina - TDA 22.1
+http://168.197.196.98:9981/stream/channelid/1899762131?profile=pass
+
+#EXTINF:-1 tvg-name="Cronica TV" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="Argentina",Cronica TV | Argentina - TDA 22.1
 http://tutv.online:8080/f7g9h8b7/j3s7x7q8/184396
 
 
