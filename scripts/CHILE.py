@@ -203,8 +203,8 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xmll"')
-print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml"')
+print('#EXTM3U x-tvg-url="https://github.com/iptv-org/epg/raw/master/sites/mi.tv/mi.tv_cl.channels.xml"')
+print('#EXTM3U x-tvg-url="https://github.com/iptv-org/epg/raw/master/sites/gatotv.com/gatotv.com.channels.xml"')
 print(banner)
 
 with open('../CHILE.txt', errors="ignore") as f:
