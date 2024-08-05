@@ -22,12 +22,8 @@ http://cord-cutter.net:8080/live/j3McKd/673709/164871.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="garage-tv-hd.ar" tvg-name="GARAGE TV HD" tvg-logo="http://yourlogourl.com/garage-tv-hd.png" group-title="Argentina",GARAGE TV HD
 http://cord-cutter.net:8080/live/j3McKd/673709/164880.m3u8
-
-
 
 
 
