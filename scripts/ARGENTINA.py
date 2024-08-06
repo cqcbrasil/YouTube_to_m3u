@@ -15,7 +15,8 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 #EXTM3U
-
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://mediakit.perfil.com/img/canal-e-logo.png" ,CANAL E - PERFIL TV
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cine-argentino.ar" tvg-name="CINE ARGENTINO" tvg-logo="http://yourlogourl.com/cine-argentino.png" group-title="Argentina",CINE ARGENTINO
 http://cord-cutter.net:8080/live/j3McKd/673709/164871.m3u8
